@@ -5,7 +5,7 @@ C0H3X4,,,Probable antitoxin YezG OS=Bacillus subtilis (strain 168) GN=yezG PE=1 
 C0H410,,,Uncharacterized protein YkzW OS=Bacillus subtilis (strain 168) GN=ykzW PE=4 SV=1 ,6
 C0SP85,GO:0005576,extracellular region,Protein YukE OS=Bacillus subtilis (strain 168) GN=yukE PE=1 SV=1 ,4
 C0SP93,GO:0005737,cytoplasm,Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta OS=Bacillus subtilis (strain 168) GN=accD PE=1 SV=1 ,9
-C0SP95,GO:0005886;GO:0005623,plasma membrane;cell,Copper transport protein YcnJ OS=Bacillus subtilis (strain 168) GN=ycnJ PE=1 SV=1 ,3
+C0SP95,GO:0005623;GO:0005886,cell;plasma membrane,Copper transport protein YcnJ OS=Bacillus subtilis (strain 168) GN=ycnJ PE=1 SV=1 ,3
 C0SP98,,,Putative oligopeptide transport ATP-binding protein YkfD OS=Bacillus subtilis (strain 168) GN=ykfD PE=3 SV=1 ,20
 C0SPA5,,,Probable formaldehyde dehydrogenase AdhA OS=Bacillus subtilis (strain 168) GN=adhA PE=2 SV=1 ,3
 C0SPB1,,,Uncharacterized protein YukJ OS=Bacillus subtilis (strain 168) GN=yukJ PE=4 SV=1 ,24
@@ -17,11 +17,11 @@ O05252,GO:0005886,plasma membrane,Uncharacterized lipoprotein YufN OS=Bacillus s
 O05265,,,Uncharacterized oxidoreductase YulF OS=Bacillus subtilis (strain 168) GN=yulF PE=3 SV=2 ,11
 O05268,,,Ferredoxin--NADP reductase 2 OS=Bacillus subtilis (strain 168) GN=yumC PE=1 SV=2 ,11
 O05389,,,Uncharacterized oxidoreductase YrbE OS=Bacillus subtilis (strain 168) GN=yrbE PE=3 SV=2 ,7
-O05496,GO:0043226;GO:0005622,organelle;intracellular,Uncharacterized UDP-glucosyltransferase YdhE OS=Bacillus subtilis (strain 168) GN=ydhE PE=3 SV=2 ,56
+O05496,GO:0005622;GO:0043226,intracellular;organelle,Uncharacterized UDP-glucosyltransferase YdhE OS=Bacillus subtilis (strain 168) GN=ydhE PE=3 SV=2 ,56
 O05516,GO:0005622;GO:0043234;GO:0005737,intracellular;protein complex;cytoplasm,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB OS=Bacillus subtilis (strain 168) GN=tsaB PE=1 SV=1 ,8
 O05519,,,Uncharacterized ABC transporter ATP-binding protein YdiF OS=Bacillus subtilis (strain 168) GN=ydiF PE=3 SV=2 ,2
 O05521,GO:0005737,cytoplasm,Redox-sensing transcriptional repressor Rex OS=Bacillus subtilis (strain 168) GN=rex PE=1 SV=1 ,3
-O05522,GO:0005886;GO:0005737;GO:0005829,plasma membrane;cytoplasm;cytosol,Sec-independent protein translocase protein TatAy OS=Bacillus subtilis (strain 168) GN=tatAy PE=1 SV=1 ,3
+O05522,GO:0005886;GO:0005829;GO:0005737,plasma membrane;cytosol;cytoplasm,Sec-independent protein translocase protein TatAy OS=Bacillus subtilis (strain 168) GN=tatAy PE=1 SV=1 ,3
 O06006,,,Putative cysteine protease YraA OS=Bacillus subtilis (strain 168) GN=yraA PE=2 SV=2 ,3
 O06476,,,Uncharacterized ABC transporter ATP-binding protein YfmR OS=Bacillus subtilis (strain 168) GN=yfmR PE=3 SV=1 ,6
 O06478,,,Putative aldehyde dehydrogenase YfmT OS=Bacillus subtilis (strain 168) GN=yfmT PE=2 SV=1 ,42
@@ -72,7 +72,7 @@ O31441,,,Uncharacterized protein YbyB OS=Bacillus subtilis (strain 168) GN=ybyB 
 O31484,,,Uncharacterized protein YczJ OS=Bacillus subtilis (strain 168) GN=yczJ PE=4 SV=1 ,2
 O31498,GO:0005829,cytosol,DNA ligase OS=Bacillus subtilis (strain 168) GN=ligA PE=3 SV=1 ,3
 O31501,,,Swarming motility protein SwrC OS=Bacillus subtilis (strain 168) GN=swrC PE=1 SV=2 ,3
-O31509,GO:0005737;GO:0005829,cytoplasm;cytosol,Probable transcriptional regulatory protein YeeI OS=Bacillus subtilis (strain 168) GN=yeeI PE=3 SV=3 ,2
+O31509,GO:0005829;GO:0005737,cytosol;cytoplasm,Probable transcriptional regulatory protein YeeI OS=Bacillus subtilis (strain 168) GN=yeeI PE=3 SV=3 ,2
 O31544,GO:0005737,cytoplasm,Putative DNA-3-methyladenine glycosylase YfjP OS=Bacillus subtilis (strain 168) GN=yfjP PE=3 SV=1 ,2
 O31545,,,Uncharacterized RNA methyltransferase YfjO OS=Bacillus subtilis (strain 168) GN=yfjO PE=3 SV=1 ,4
 O31546,,,Probable tRNA-dihydrouridine synthase 2 OS=Bacillus subtilis (strain 168) GN=dus2 PE=3 SV=1 ,6
@@ -116,7 +116,7 @@ O31718,,,UPF0356 protein YkzG OS=Bacillus subtilis (strain 168) GN=ykzG PE=3 SV=
 O31728,GO:0005737,cytoplasm,Cell division protein SepF OS=Bacillus subtilis (strain 168) GN=sepF PE=1 SV=3 ,3
 O31729,GO:0005886,plasma membrane,Uncharacterized membrane protein YlmG OS=Bacillus subtilis (strain 168) GN=ylmG PE=3 SV=1 ,2
 O31740,GO:0005840;GO:0005737,ribosome;cytoplasm,Ribosome maturation factor RimM OS=Bacillus subtilis (strain 168) GN=rimM PE=3 SV=1 ,2
-O31742,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L19 OS=Bacillus subtilis (strain 168) GN=rplS PE=1 SV=2 ,2
+O31742,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L19 OS=Bacillus subtilis (strain 168) GN=rplS PE=1 SV=2 ,2
 O31749,GO:0005737,cytoplasm,Uridylate kinase OS=Bacillus subtilis (strain 168) GN=pyrH PE=1 SV=2 ,4
 O31751,GO:0005829,cytosol,Isoprenyl transferase OS=Bacillus subtilis (strain 168) GN=uppS PE=3 SV=1 ,3
 O31753,,,1-deoxy-D-xylulose 5-phosphate reductoisomerase OS=Bacillus subtilis (strain 168) GN=dxr PE=3 SV=2 ,5
@@ -126,7 +126,7 @@ O31760,GO:0005737,cytoplasm,Ribonuclease J2 OS=Bacillus subtilis (strain 168) GN
 O31764,,,Probable inactive metalloprotease YmfF OS=Bacillus subtilis (strain 168) GN=ymfF PE=3 SV=2 ,2
 O31766,,,Uncharacterized zinc protease YmfH OS=Bacillus subtilis (strain 168) GN=ymfH PE=3 SV=2 ,11
 O31771,GO:0005886,plasma membrane,Uncharacterized membrane protein YmfM OS=Bacillus subtilis (strain 168) GN=ymfM PE=4 SV=3 ,4
-O31774,GO:0005886;GO:0005730,plasma membrane;nucleolus,Ribonuclease Y OS=Bacillus subtilis (strain 168) GN=rny PE=1 SV=1 ,17
+O31774,GO:0005730;GO:0005886,nucleolus;plasma membrane,Ribonuclease Y OS=Bacillus subtilis (strain 168) GN=rny PE=1 SV=1 ,17
 O31775,GO:0005737,cytoplasm,Uncharacterized protein ymdB OS=Bacillus subtilis (strain 168) GN=ymdB PE=1 SV=2 ,13
 O31776,GO:0005737,cytoplasm,L-threonine 3-dehydrogenase OS=Bacillus subtilis (strain 168) GN=tdh PE=3 SV=1 ,112
 O31777,,,8-amino-7-oxononanoate synthase 1 OS=Bacillus subtilis (strain 168) GN=kbl PE=3 SV=1 ,181
@@ -156,7 +156,7 @@ O32093,,,Uncharacterized protein YueH OS=Bacillus subtilis (strain 168) GN=yueH 
 O32103,,,Uncharacterized oxidoreductase YuiH OS=Bacillus subtilis (strain 168) GN=yuiH PE=3 SV=1 ,2
 O32106,GO:0005622;GO:0005737,intracellular;cytoplasm,Probable cytosol aminopeptidase OS=Bacillus subtilis (strain 168) GN=pepA PE=3 SV=1 ,3
 O32113,,,Uncharacterized protein SufA OS=Bacillus subtilis (strain 168) GN=sufA PE=3 SV=1 ,2
-O32114,GO:0005737;GO:0005829,cytoplasm;cytosol,Diaminopimelate epimerase OS=Bacillus subtilis (strain 168) GN=dapF PE=3 SV=1 ,7
+O32114,GO:0005829;GO:0005737,cytosol;cytoplasm,Diaminopimelate epimerase OS=Bacillus subtilis (strain 168) GN=dapF PE=3 SV=1 ,7
 O32117,,,NADH dehydrogenase-like protein YutJ OS=Bacillus subtilis (strain 168) GN=yutJ PE=3 SV=2 ,9
 O32118,,,Putative disulfide oxidoreductase YuzD OS=Bacillus subtilis (strain 168) GN=yuzD PE=4 SV=1 ,6
 O32125,,,Acid sugar phosphatase OS=Bacillus subtilis (strain 168) GN=yutF PE=1 SV=1 ,2
@@ -192,7 +192,7 @@ O34340,,,3-oxoacyl-[acyl-carrier-protein] synthase 2 OS=Bacillus subtilis (strai
 O34347,GO:0005737,cytoplasm,Argininosuccinate synthase OS=Bacillus subtilis (strain 168) GN=argG PE=3 SV=1 ,3
 O34348,GO:0005886,plasma membrane,Fe(3+)-citrate-binding protein YfmC OS=Bacillus subtilis (strain 168) GN=yfmC PE=2 SV=1 ,9
 O34357,GO:0005829,cytosol,Thioredoxin-like protein YtpP OS=Bacillus subtilis (strain 168) GN=ytpP PE=2 SV=1 ,31
-O34366,GO:0043226;GO:0005623,organelle;cell,Putative flagellin YvzB OS=Bacillus subtilis (strain 168) GN=yvzB PE=1 SV=1 ,9
+O34366,GO:0005623;GO:0043226,cell;organelle,Putative flagellin YvzB OS=Bacillus subtilis (strain 168) GN=yvzB PE=1 SV=1 ,9
 O34385,GO:0005886,plasma membrane,Manganese-binding lipoprotein MntA OS=Bacillus subtilis (strain 168) GN=mntA PE=3 SV=1 ,4
 O34403,,,Formamidopyrimidine-DNA glycosylase OS=Bacillus subtilis (strain 168) GN=mutM PE=3 SV=4 ,4
 O34425,GO:0005737,cytoplasm,Glyceraldehyde-3-phosphate dehydrogenase 2 OS=Bacillus subtilis (strain 168) GN=gapB PE=1 SV=1 ,89
@@ -209,10 +209,10 @@ O34484,GO:0005737,cytoplasm,Methionine aminopeptidase 2 OS=Bacillus subtilis (st
 O34496,,,UPF0354 protein YtpQ OS=Bacillus subtilis (strain 168) GN=ytpQ PE=3 SV=1 ,2
 O34497,,,Uncharacterized protein YkgA OS=Bacillus subtilis (strain 168) GN=ykgA PE=3 SV=2 ,3
 O34499,GO:0005829,cytosol,6-phosphogluconolactonase OS=Bacillus subtilis (strain 168) GN=pgl PE=1 SV=1 ,54
-O34526,GO:0005737;GO:0005829,cytoplasm;cytosol,Alanine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=alaS PE=3 SV=1 ,23
+O34526,GO:0005829;GO:0005737,cytosol;cytoplasm,Alanine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=alaS PE=3 SV=1 ,23
 O34527,GO:0043234,protein complex,HTH-type transcriptional regulator CymR OS=Bacillus subtilis (strain 168) GN=cymR PE=1 SV=2 ,8
 O34529,GO:0005737,cytoplasm,ATP-dependent 6-phosphofructokinase OS=Bacillus subtilis (strain 168) GN=pfkA PE=1 SV=1 ,21
-O34539,GO:0043226;GO:0005622,organelle;intracellular,Uncharacterized UDP-glucosyltransferase YjiC OS=Bacillus subtilis (strain 168) GN=yjiC PE=3 SV=1 ,9
+O34539,GO:0005622;GO:0043226,intracellular;organelle,Uncharacterized UDP-glucosyltransferase YjiC OS=Bacillus subtilis (strain 168) GN=yjiC PE=3 SV=1 ,9
 O34553,,,Protein YtsP OS=Bacillus subtilis (strain 168) GN=ytsP PE=3 SV=2 ,19
 O34577,,,Probable adenylyl-sulfate kinase OS=Bacillus subtilis (strain 168) GN=cysC PE=2 SV=1 ,6
 O34591,,,"Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta OS=Bacillus subtilis (strain 168) GN=acoB PE=3 SV=3 ",165
@@ -249,7 +249,7 @@ O34833,,,Uncharacterized protein YceH OS=Bacillus subtilis (strain 168) GN=yceH 
 O34842,GO:0005737,cytoplasm,Putative hydrolase MhqD OS=Bacillus subtilis (strain 168) GN=mhqD PE=2 SV=1 ,3
 O34847,GO:0005737,cytoplasm,Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha OS=Bacillus subtilis (strain 168) GN=accA PE=1 SV=1 ,15
 O34863,GO:0005622;GO:0005737,intracellular;cytoplasm,UvrABC system protein A OS=Bacillus subtilis (strain 168) GN=uvrA PE=3 SV=1 ,17
-O34894,GO:0005886;GO:0005856;GO:0005737,plasma membrane;cytoskeleton;cytoplasm,Septation ring formation regulator EzrA OS=Bacillus subtilis (strain 168) GN=ezrA PE=1 SV=1 ,9
+O34894,GO:0005856;GO:0005737;GO:0005886,cytoskeleton;cytoplasm;plasma membrane,Septation ring formation regulator EzrA OS=Bacillus subtilis (strain 168) GN=ezrA PE=1 SV=1 ,9
 O34909,,,Putative adenine deaminase YerA OS=Bacillus subtilis (strain 168) GN=yerA PE=1 SV=1 ,85
 O34923,,,Uncharacterized protein YkzB OS=Bacillus subtilis (strain 168) GN=ykzB PE=4 SV=1 ,5
 O34924,,,Putative aminopeptidase YtoP OS=Bacillus subtilis (strain 168) GN=ytoP PE=3 SV=1 ,6
@@ -272,9 +272,9 @@ O35011,,,DNA-directed RNA polymerase subunit omega OS=Bacillus subtilis (strain 
 O35014,,,Uncharacterized EAL-domain containing protein YkuI OS=Bacillus subtilis (strain 168) GN=ykuI PE=1 SV=1 ,8
 O35022,,,FMN-dependent NADH-azoreductase 1 OS=Bacillus subtilis (strain 168) GN=azoR1 PE=2 SV=1 ,8
 O54408,GO:0005618;GO:0005886,cell wall;plasma membrane,GTP pyrophosphokinase OS=Bacillus subtilis (strain 168) GN=relA PE=1 SV=3 ,9
-P02394,GO:0005840;GO:0005622,ribosome;intracellular,50S ribosomal protein L7/L12 OS=Bacillus subtilis (strain 168) GN=rplL PE=1 SV=4 ,93
-P02968,GO:0043226;GO:0005576;GO:0005623;GO:0005618,organelle;extracellular region;cell;cell wall,Flagellin OS=Bacillus subtilis (strain 168) GN=hag PE=1 SV=2 ,121
-P04969,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S11 OS=Bacillus subtilis (strain 168) GN=rpsK PE=1 SV=1 ,7
+P02394,GO:0005622;GO:0005840,intracellular;ribosome,50S ribosomal protein L7/L12 OS=Bacillus subtilis (strain 168) GN=rplL PE=1 SV=4 ,93
+P02968,GO:0005618;GO:0005576;GO:0005623;GO:0043226,cell wall;extracellular region;cell;organelle,Flagellin OS=Bacillus subtilis (strain 168) GN=hag PE=1 SV=2 ,121
+P04969,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S11 OS=Bacillus subtilis (strain 168) GN=rpsK PE=1 SV=1 ,7
 P04990,GO:0005737,cytoplasm,Threonine synthase OS=Bacillus subtilis (strain 168) GN=thrC PE=3 SV=1 ,16
 P05648,GO:0005886;GO:0005737,plasma membrane;cytoplasm,Chromosomal replication initiator protein DnaA OS=Bacillus subtilis (strain 168) GN=dnaA PE=1 SV=1 ,10
 P05649,GO:0005622;GO:0005737,intracellular;cytoplasm,DNA polymerase III subunit beta OS=Bacillus subtilis (strain 168) GN=dnaN PE=1 SV=1 ,22
@@ -288,17 +288,17 @@ P07343,GO:0043234;GO:0005737,protein complex;cytoplasm,Fumarate hydratase class 
 P08065,GO:0005886,plasma membrane,Succinate dehydrogenase flavoprotein subunit OS=Bacillus subtilis (strain 168) GN=sdhA PE=3 SV=4 ,93
 P08066,GO:0005886,plasma membrane,Succinate dehydrogenase iron-sulfur subunit OS=Bacillus subtilis (strain 168) GN=sdhB PE=3 SV=3 ,18
 P08164,GO:0005737,cytoplasm,NH(3)-dependent NAD(+) synthetase OS=Bacillus subtilis (strain 168) GN=nadE PE=1 SV=5 ,40
-P08750,GO:0005576;GO:0005618,extracellular region;cell wall,D-alanyl-D-alanine carboxypeptidase DacA OS=Bacillus subtilis (strain 168) GN=dacA PE=1 SV=3 ,16
-P08821,GO:0005737;GO:0005829,cytoplasm;cytosol,DNA-binding protein HU 1 OS=Bacillus subtilis (strain 168) GN=hupA PE=1 SV=2 ,18
+P08750,GO:0005618;GO:0005576,cell wall;extracellular region,D-alanyl-D-alanine carboxypeptidase DacA OS=Bacillus subtilis (strain 168) GN=dacA PE=1 SV=3 ,16
+P08821,GO:0005829;GO:0005737,cytosol;cytoplasm,DNA-binding protein HU 1 OS=Bacillus subtilis (strain 168) GN=hupA PE=1 SV=2 ,18
 P08838,GO:0005737,cytoplasm,Phosphoenolpyruvate-protein phosphotransferase OS=Bacillus subtilis (strain 168) GN=ptsI PE=1 SV=3 ,44
 P08874,,,Transition state regulatory protein AbrB OS=Bacillus subtilis (strain 168) GN=abrB PE=1 SV=1 ,4
 P08877,GO:0005737,cytoplasm,Phosphocarrier protein HPr OS=Bacillus subtilis (strain 168) GN=ptsH PE=1 SV=3 ,11
 P09122,GO:0005622,intracellular,DNA polymerase III subunit gamma/tau OS=Bacillus subtilis (strain 168) GN=dnaX PE=3 SV=3 ,5
 P09124,GO:0005737,cytoplasm,Glyceraldehyde-3-phosphate dehydrogenase 1 OS=Bacillus subtilis (strain 168) GN=gapA PE=1 SV=2 ,235
 P09339,,,Aconitate hydratase A OS=Bacillus subtilis (strain 168) GN=citB PE=1 SV=4 ,133
-P0CI73,GO:0005737;GO:0005829,cytoplasm;cytosol,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] OS=Bacillus subtilis (strain 168) GN=glmS PE=2 SV=1 ,5
+P0CI73,GO:0005829;GO:0005737,cytosol;cytoplasm,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] OS=Bacillus subtilis (strain 168) GN=glmS PE=2 SV=1 ,5
 P0CI74,GO:0005737,cytoplasm,Cell cycle protein GpsB OS=Bacillus subtilis (strain 168) GN=gpsB PE=1 SV=1 ,4
-P0CI78,GO:0005840;GO:0005622;GO:0005737;GO:0005829,ribosome;intracellular;cytoplasm;cytosol,50S ribosomal protein L24 OS=Bacillus subtilis (strain 168) GN=rplX PE=1 SV=1 ,7
+P0CI78,GO:0005622;GO:0005840;GO:0005829;GO:0005737,intracellular;ribosome;cytosol;cytoplasm,50S ribosomal protein L24 OS=Bacillus subtilis (strain 168) GN=rplX PE=1 SV=1 ,7
 P10728,,,Anti-sigma F factor OS=Bacillus subtilis (strain 168) GN=spoIIAB PE=1 SV=1 ,6
 P10944,GO:0005737,cytoplasm,Histidine ammonia-lyase OS=Bacillus subtilis (strain 168) GN=hutH PE=2 SV=1 ,2
 P11018,GO:0005737,cytoplasm,Major intracellular serine protease OS=Bacillus subtilis (strain 168) GN=isp PE=1 SV=2 ,2
@@ -311,7 +311,7 @@ P12013,,,"6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating OS
 P12039,,,Phosphoribosylamine--glycine ligase OS=Bacillus subtilis (strain 168) GN=purD PE=1 SV=1 ,9
 P12048,,,Bifunctional purine biosynthesis protein PurH OS=Bacillus subtilis (strain 168) GN=purH PE=3 SV=2 ,2
 P12425,GO:0005737,cytoplasm,Glutamine synthetase OS=Bacillus subtilis (strain 168) GN=glnA PE=1 SV=3 ,147
-P12877,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L5 OS=Bacillus subtilis (strain 168) GN=rplE PE=1 SV=1 ,35
+P12877,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L5 OS=Bacillus subtilis (strain 168) GN=rplE PE=1 SV=1 ,35
 P13242,,,CTP synthase OS=Bacillus subtilis (strain 168) GN=pyrG PE=3 SV=1 ,29
 P13243,,,Probable fructose-bisphosphate aldolase OS=Bacillus subtilis (strain 168) GN=fbaA PE=1 SV=2 ,338
 P13267,GO:0005737,cytoplasm,DNA polymerase III PolC-type OS=Bacillus subtilis (strain 168) GN=polC PE=1 SV=2 ,9
@@ -322,7 +322,7 @@ P13792,GO:0005737,cytoplasm,Alkaline phosphatase synthesis transcriptional regul
 P13800,GO:0005737,cytoplasm,Transcriptional regulatory protein DegU OS=Bacillus subtilis (strain 168) GN=degU PE=1 SV=2 ,58
 P14192,GO:0005737,cytoplasm,Bifunctional protein GlmU OS=Bacillus subtilis (strain 168) GN=glmU PE=3 SV=1 ,4
 P14193,GO:0005737,cytoplasm,Ribose-phosphate pyrophosphokinase OS=Bacillus subtilis (strain 168) GN=prs PE=1 SV=1 ,46
-P14194,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,General stress protein CTC OS=Bacillus subtilis (strain 168) GN=ctc PE=1 SV=4 ,5
+P14194,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,General stress protein CTC OS=Bacillus subtilis (strain 168) GN=ctc PE=1 SV=4 ,5
 P14205,,,Putative esterase ComA2 OS=Bacillus subtilis (strain 168) GN=yuxO PE=3 SV=2 ,11
 P14949,GO:0005829,cytosol,Thioredoxin OS=Bacillus subtilis (strain 168) GN=trxA PE=1 SV=3 ,13
 P15874,GO:0005737,cytoplasm,Protein GrpE OS=Bacillus subtilis (strain 168) GN=grpE PE=1 SV=3 ,5
@@ -332,7 +332,7 @@ P16336,GO:0005886,plasma membrane,Protein translocase subunit SecY OS=Bacillus s
 P16440,GO:0005829,cytosol,Riboflavin synthase OS=Bacillus subtilis (strain 168) GN=ribE PE=1 SV=2 ,4
 P16524,GO:0005737,cytoplasm,Putative N-acetyl-LL-diaminopimelate aminotransferase OS=Bacillus subtilis (strain 168) GN=patA PE=1 SV=3 ,3
 P16616,GO:0005737,cytoplasm,Porphobilinogen deaminase OS=Bacillus subtilis (strain 168) GN=hemC PE=3 SV=3 ,11
-P16971,GO:0005737;GO:0005829,cytoplasm;cytosol,Protein RecA OS=Bacillus subtilis (strain 168) GN=recA PE=1 SV=2 ,70
+P16971,GO:0005829;GO:0005737,cytosol;cytoplasm,Protein RecA OS=Bacillus subtilis (strain 168) GN=recA PE=1 SV=2 ,70
 P17620,,,Riboflavin biosynthesis protein RibBA OS=Bacillus subtilis (strain 168) GN=ribBA PE=3 SV=1 ,10
 P17631,GO:0005737,cytoplasm,Chaperone protein DnaJ OS=Bacillus subtilis (strain 168) GN=dnaJ PE=2 SV=3 ,9
 P17731,,,Histidinol-phosphate aminotransferase OS=Bacillus subtilis (strain 168) GN=hisC PE=3 SV=3 ,4
@@ -355,26 +355,26 @@ P19079,GO:0005829,cytosol,Cytidine deaminase OS=Bacillus subtilis (strain 168) G
 P19465,GO:0005737,cytoplasm,GTP cyclohydrolase 1 OS=Bacillus subtilis (strain 168) GN=folE PE=1 SV=1 ,13
 P19582,,,Homoserine dehydrogenase OS=Bacillus subtilis (strain 168) GN=hom PE=1 SV=2 ,14
 P19669,GO:0005737,cytoplasm,Transaldolase OS=Bacillus subtilis (strain 168) GN=tal PE=1 SV=4 ,62
-P19946,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L15 OS=Bacillus subtilis (strain 168) GN=rplO PE=1 SV=1 ,10
+P19946,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L15 OS=Bacillus subtilis (strain 168) GN=rplO PE=1 SV=1 ,10
 P19994,GO:0005737,cytoplasm,Methionine aminopeptidase 1 OS=Bacillus subtilis (strain 168) GN=map PE=1 SV=1 ,3
 P20166,GO:0005886,plasma membrane,PTS system glucose-specific EIICBA component OS=Bacillus subtilis (strain 168) GN=ptsG PE=1 SV=2 ,9
-P20282,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S13 OS=Bacillus subtilis (strain 168) GN=rpsM PE=1 SV=3 ,2
+P20282,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S13 OS=Bacillus subtilis (strain 168) GN=rpsM PE=1 SV=3 ,2
 P20429,GO:0005737,cytoplasm,DNA-directed RNA polymerase subunit alpha OS=Bacillus subtilis (strain 168) GN=rpoA PE=1 SV=1 ,47
-P20458,GO:0005737;GO:0005829,cytoplasm;cytosol,Translation initiation factor IF-1 OS=Bacillus subtilis (strain 168) GN=infA PE=1 SV=2 ,4
+P20458,GO:0005829;GO:0005737,cytosol;cytoplasm,Translation initiation factor IF-1 OS=Bacillus subtilis (strain 168) GN=infA PE=1 SV=2 ,4
 P20691,GO:0005737,cytoplasm,3-phosphoshikimate 1-carboxyvinyltransferase OS=Bacillus subtilis (strain 168) GN=aroA PE=3 SV=1 ,5
 P20964,GO:0005737,cytoplasm,GTPase Obg OS=Bacillus subtilis (strain 168) GN=obg PE=1 SV=1 ,9
-P21464,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S2 OS=Bacillus subtilis (strain 168) GN=rpsB PE=1 SV=3 ,76
-P21465,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S3 OS=Bacillus subtilis (strain 168) GN=rpsC PE=1 SV=4 ,2
-P21466,GO:0005840;GO:0005622,ribosome;intracellular,30S ribosomal protein S4 OS=Bacillus subtilis (strain 168) GN=rpsD PE=1 SV=3 ,53
-P21467,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S5 OS=Bacillus subtilis (strain 168) GN=rpsE PE=1 SV=3 ,23
-P21468,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S6 OS=Bacillus subtilis (strain 168) GN=rpsF PE=1 SV=2 ,5
-P21469,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S7 OS=Bacillus subtilis (strain 168) GN=rpsG PE=1 SV=4 ,6
-P21470,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S9 OS=Bacillus subtilis (strain 168) GN=rpsI PE=1 SV=3 ,13
-P21472,GO:0005840;GO:0005622,ribosome;intracellular,30S ribosomal protein S12 OS=Bacillus subtilis (strain 168) GN=rpsL PE=1 SV=5 ,2
-P21473,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S15 OS=Bacillus subtilis (strain 168) GN=rpsO PE=1 SV=4 ,20
-P21474,GO:0005840;GO:0005622,ribosome;intracellular,30S ribosomal protein S16 OS=Bacillus subtilis (strain 168) GN=rpsP PE=1 SV=3 ,2
-P21475,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S18 OS=Bacillus subtilis (strain 168) GN=rpsR PE=1 SV=3 ,2
-P21476,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S19 OS=Bacillus subtilis (strain 168) GN=rpsS PE=1 SV=3 ,9
+P21464,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S2 OS=Bacillus subtilis (strain 168) GN=rpsB PE=1 SV=3 ,76
+P21465,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S3 OS=Bacillus subtilis (strain 168) GN=rpsC PE=1 SV=4 ,2
+P21466,GO:0005622;GO:0005840,intracellular;ribosome,30S ribosomal protein S4 OS=Bacillus subtilis (strain 168) GN=rpsD PE=1 SV=3 ,53
+P21467,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S5 OS=Bacillus subtilis (strain 168) GN=rpsE PE=1 SV=3 ,23
+P21468,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S6 OS=Bacillus subtilis (strain 168) GN=rpsF PE=1 SV=2 ,5
+P21469,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S7 OS=Bacillus subtilis (strain 168) GN=rpsG PE=1 SV=4 ,6
+P21470,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S9 OS=Bacillus subtilis (strain 168) GN=rpsI PE=1 SV=3 ,13
+P21472,GO:0005622;GO:0005840,intracellular;ribosome,30S ribosomal protein S12 OS=Bacillus subtilis (strain 168) GN=rpsL PE=1 SV=5 ,2
+P21473,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S15 OS=Bacillus subtilis (strain 168) GN=rpsO PE=1 SV=4 ,20
+P21474,GO:0005622;GO:0005840,intracellular;ribosome,30S ribosomal protein S16 OS=Bacillus subtilis (strain 168) GN=rpsP PE=1 SV=3 ,2
+P21475,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S18 OS=Bacillus subtilis (strain 168) GN=rpsR PE=1 SV=3 ,2
+P21476,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,30S ribosomal protein S19 OS=Bacillus subtilis (strain 168) GN=rpsS PE=1 SV=3 ,9
 P21656,GO:0005737,cytoplasm,Tryptophan--tRNA ligase OS=Bacillus subtilis (strain 168) GN=trpS PE=1 SV=2 ,2
 P21879,GO:0005737,cytoplasm,Inosine-5'-monophosphate dehydrogenase OS=Bacillus subtilis (strain 168) GN=guaB PE=1 SV=2 ,99
 P21880,GO:0005737,cytoplasm,Dihydrolipoyl dehydrogenase OS=Bacillus subtilis (strain 168) GN=pdhD PE=3 SV=1 ,103
@@ -383,8 +383,8 @@ P21882,,,Pyruvate dehydrogenase E1 component subunit beta OS=Bacillus subtilis (
 P21883,,,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex OS=Bacillus subtilis (strain 168) GN=pdhC PE=1 SV=2 ,124
 P21885,GO:0005737,cytoplasm,Arginine decarboxylase OS=Bacillus subtilis (strain 168) GN=speA PE=1 SV=2 ,2
 P22250,GO:0005737,cytoplasm,Glutamate--tRNA ligase OS=Bacillus subtilis (strain 168) GN=gltX PE=3 SV=1 ,97
-P22326,GO:0005737;GO:0005829,cytoplasm;cytosol,Tyrosine--tRNA ligase 1 OS=Bacillus subtilis (strain 168) GN=tyrS1 PE=2 SV=2 ,5
-P23129,GO:0043234;GO:0005737;GO:0005829,protein complex;cytoplasm;cytosol,2-oxoglutarate dehydrogenase E1 component OS=Bacillus subtilis (strain 168) GN=odhA PE=3 SV=3 ,116
+P22326,GO:0005829;GO:0005737,cytosol;cytoplasm,Tyrosine--tRNA ligase 1 OS=Bacillus subtilis (strain 168) GN=tyrS1 PE=2 SV=2 ,5
+P23129,GO:0043234;GO:0005829;GO:0005737,protein complex;cytosol;cytoplasm,2-oxoglutarate dehydrogenase E1 component OS=Bacillus subtilis (strain 168) GN=odhA PE=3 SV=3 ,116
 P23477,,,ATP-dependent helicase/deoxyribonuclease subunit B OS=Bacillus subtilis (strain 168) GN=addB PE=1 SV=2 ,2
 P23478,,,ATP-dependent helicase/nuclease subunit A OS=Bacillus subtilis (strain 168) GN=addA PE=1 SV=2 ,9
 P23479,,,Nuclease SbcCD subunit D OS=Bacillus subtilis (strain 168) GN=sbcD PE=3 SV=5 ,2
@@ -393,35 +393,35 @@ P23966,,,"1,4-dihydroxy-2-naphthoyl-CoA synthase OS=Bacillus subtilis (strain 16
 P24010,GO:0005886,plasma membrane,Cytochrome c oxidase subunit 1 OS=Bacillus subtilis (strain 168) GN=ctaD PE=3 SV=3 ,10
 P24011,GO:0005886,plasma membrane,Cytochrome c oxidase subunit 2 OS=Bacillus subtilis (strain 168) GN=ctaC PE=3 SV=2 ,43
 P24072,GO:0005737,cytoplasm,Chemotaxis protein CheY OS=Bacillus subtilis (strain 168) GN=cheY PE=1 SV=3 ,8
-P24073,GO:0043226;GO:0005886;GO:0005623,organelle;plasma membrane;cell,Flagellar motor switch phosphatase FliY OS=Bacillus subtilis (strain 168) GN=fliY PE=3 SV=2 ,8
+P24073,GO:0005623;GO:0043226;GO:0005886,cell;organelle;plasma membrane,Flagellar motor switch phosphatase FliY OS=Bacillus subtilis (strain 168) GN=fliY PE=3 SV=2 ,8
 P24136,GO:0005886,plasma membrane,Oligopeptide transport ATP-binding protein OppD OS=Bacillus subtilis (strain 168) GN=oppD PE=2 SV=2 ,15
 P24137,GO:0005886,plasma membrane,Oligopeptide transport ATP-binding protein OppF OS=Bacillus subtilis (strain 168) GN=oppF PE=2 SV=3 ,4
-P24141,GO:0005886;GO:0043234,plasma membrane;protein complex,Oligopeptide-binding protein OppA OS=Bacillus subtilis (strain 168) GN=oppA PE=1 SV=1 ,133
+P24141,GO:0043234;GO:0005886,protein complex;plasma membrane,Oligopeptide-binding protein OppA OS=Bacillus subtilis (strain 168) GN=oppA PE=1 SV=1 ,133
 P24281,GO:0005737,cytoplasm,Nucleoid-associated protein YaaK OS=Bacillus subtilis (strain 168) GN=yaaK PE=3 SV=1 ,28
 P24469,GO:0005886,plasma membrane,Cytochrome c-550 OS=Bacillus subtilis (strain 168) GN=cccA PE=1 SV=1 ,7
 P25144,,,Catabolite control protein A OS=Bacillus subtilis (strain 168) GN=ccpA PE=1 SV=1 ,102
 P25148,,,General stress protein A OS=Bacillus subtilis (strain 168) GN=gspA PE=1 SV=2 ,13
 P25503,GO:0005737,cytoplasm,Urocanate hydratase OS=Bacillus subtilis (strain 168) GN=hutU PE=1 SV=2 ,52
 P25811,GO:0005622;GO:0005737,intracellular;cytoplasm,tRNA modification GTPase MnmE OS=Bacillus subtilis (strain 168) GN=mnmE PE=3 SV=1 ,6
-P25812,GO:0005737;GO:0005829,cytoplasm;cytosol,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG OS=Bacillus subtilis (strain 168) GN=mnmG PE=3 SV=1 ,12
+P25812,GO:0005829;GO:0005737,cytosol;cytoplasm,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG OS=Bacillus subtilis (strain 168) GN=mnmG PE=3 SV=1 ,12
 P25995,GO:0005737,cytoplasm,Dihydroorotase OS=Bacillus subtilis (strain 168) GN=pyrC PE=3 SV=2 ,2
 P26899,,,Aspartate ammonia-lyase OS=Bacillus subtilis (strain 168) GN=ansB PE=3 SV=2 ,52
 P26901,GO:0005737,cytoplasm,Vegetative catalase OS=Bacillus subtilis (strain 168) GN=katA PE=1 SV=5 ,368
 P26902,,,D-aminopeptidase OS=Bacillus subtilis (strain 168) GN=dppA PE=1 SV=3 ,5
-P26906,GO:0005886;GO:0043234,plasma membrane;protein complex,Dipeptide-binding protein DppE OS=Bacillus subtilis (strain 168) GN=dppE PE=2 SV=4 ,12
+P26906,GO:0043234;GO:0005886,protein complex;plasma membrane,Dipeptide-binding protein DppE OS=Bacillus subtilis (strain 168) GN=dppE PE=2 SV=4 ,12
 P26907,,,Glucose starvation-inducible protein B OS=Bacillus subtilis (strain 168) GN=gsiB PE=1 SV=3 ,98
-P26908,GO:0005840;GO:0005622,ribosome;intracellular,50S ribosomal protein L21 OS=Bacillus subtilis (strain 168) GN=rplU PE=1 SV=1 ,19
+P26908,GO:0005622;GO:0005840,intracellular;ribosome,50S ribosomal protein L21 OS=Bacillus subtilis (strain 168) GN=rplU PE=1 SV=1 ,19
 P26935,,,Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase OS=Bacillus subtilis (strain 168) GN=iolG PE=1 SV=2 ,40
 P27206,,,Surfactin synthase subunit 1 OS=Bacillus subtilis (strain 168) GN=srfAA PE=1 SV=4 ,114
-P27876,GO:0005737;GO:0005829,cytoplasm;cytosol,Triosephosphate isomerase OS=Bacillus subtilis (strain 168) GN=tpiA PE=1 SV=3 ,308
+P27876,GO:0005829;GO:0005737,cytosol;cytoplasm,Triosephosphate isomerase OS=Bacillus subtilis (strain 168) GN=tpiA PE=1 SV=3 ,308
 P28015,,,Putative septation protein SpoVG OS=Bacillus subtilis (strain 168) GN=spoVG PE=1 SV=1 ,4
-P28264,GO:0005886;GO:0005623,plasma membrane;cell,Cell division protein FtsA OS=Bacillus subtilis (strain 168) GN=ftsA PE=1 SV=2 ,17
-P28366,GO:0005886;GO:0043234;GO:0005623;GO:0005737;GO:0005829,plasma membrane;protein complex;cell;cytoplasm;cytosol,Protein translocase subunit SecA OS=Bacillus subtilis (strain 168) GN=secA PE=1 SV=1 ,25
+P28264,GO:0005623;GO:0005886,cell;plasma membrane,Cell division protein FtsA OS=Bacillus subtilis (strain 168) GN=ftsA PE=1 SV=2 ,17
+P28366,GO:0005886;GO:0043234;GO:0005623;GO:0005829;GO:0005737,plasma membrane;protein complex;cell;cytosol;cytoplasm,Protein translocase subunit SecA OS=Bacillus subtilis (strain 168) GN=secA PE=1 SV=1 ,25
 P28367,GO:0005737,cytoplasm,Peptide chain release factor 2 OS=Bacillus subtilis (strain 168) GN=prfB PE=3 SV=2 ,22
-P28368,GO:0005840;GO:0005737;GO:0005829,ribosome;cytoplasm;cytosol,Ribosome hibernation promotion factor OS=Bacillus subtilis (strain 168) GN=yvyD PE=1 SV=2 ,19
-P28598,GO:0043234;GO:0005737;GO:0005829,protein complex;cytoplasm;cytosol,60 kDa chaperonin OS=Bacillus subtilis (strain 168) GN=groL PE=1 SV=3 ,446
+P28368,GO:0005840;GO:0005829;GO:0005737,ribosome;cytosol;cytoplasm,Ribosome hibernation promotion factor OS=Bacillus subtilis (strain 168) GN=yvyD PE=1 SV=2 ,19
+P28598,GO:0005829;GO:0043234;GO:0005737,cytosol;protein complex;cytoplasm,60 kDa chaperonin OS=Bacillus subtilis (strain 168) GN=groL PE=1 SV=3 ,446
 P28599,GO:0005737,cytoplasm,10 kDa chaperonin OS=Bacillus subtilis (strain 168) GN=groS PE=1 SV=2 ,8
-P28618,GO:0005737;GO:0005829,cytoplasm;cytosol,Pyrrolidone-carboxylate peptidase OS=Bacillus subtilis (strain 168) GN=pcp PE=1 SV=1 ,5
+P28618,GO:0005829;GO:0005737,cytosol;cytoplasm,Pyrrolidone-carboxylate peptidase OS=Bacillus subtilis (strain 168) GN=pcp PE=1 SV=1 ,5
 P28628,GO:0005886,plasma membrane,Signal peptidase I S OS=Bacillus subtilis (strain 168) GN=sipS PE=1 SV=1 ,6
 P28819,GO:0005737,cytoplasm,Aminodeoxychorismate/anthranilate synthase component 2 OS=Bacillus subtilis (strain 168) GN=pabA PE=2 SV=1 ,2
 P29072,GO:0005737,cytoplasm,Chemotaxis protein CheA OS=Bacillus subtilis (strain 168) GN=cheA PE=1 SV=2 ,10
@@ -434,18 +434,18 @@ P31080,,,LexA repressor OS=Bacillus subtilis (strain 168) GN=lexA PE=1 SV=1 ,3
 P31103,GO:0005622;GO:0005737,intracellular;cytoplasm,Nucleoside diphosphate kinase OS=Bacillus subtilis (strain 168) GN=ndk PE=1 SV=3 ,15
 P31104,GO:0005829,cytosol,Chorismate synthase OS=Bacillus subtilis (strain 168) GN=aroC PE=1 SV=3 ,19
 P32081,GO:0005737,cytoplasm,Cold shock protein CspB OS=Bacillus subtilis (strain 168) GN=cspB PE=1 SV=1 ,465
-P32395,GO:0005737;GO:0005829,cytoplasm;cytosol,Uroporphyrinogen decarboxylase OS=Bacillus subtilis (strain 168) GN=hemE PE=1 SV=1 ,31
+P32395,GO:0005829;GO:0005737,cytosol;cytoplasm,Uroporphyrinogen decarboxylase OS=Bacillus subtilis (strain 168) GN=hemE PE=1 SV=1 ,31
 P32396,GO:0005737,cytoplasm,Ferrochelatase OS=Bacillus subtilis (strain 168) GN=hemH PE=1 SV=1 ,140
 P32397,GO:0005737,cytoplasm,Protoporphyrinogen oxidase OS=Bacillus subtilis (strain 168) GN=hemY PE=1 SV=1 ,24
 P32436,,,Protein DegV OS=Bacillus subtilis (strain 168) GN=degV PE=1 SV=2 ,4
-P32726,GO:0005737;GO:0005829,cytoplasm;cytosol,Ribosome maturation factor RimP OS=Bacillus subtilis (strain 168) GN=rimP PE=3 SV=1 ,12
-P32727,GO:0005737;GO:0005829,cytoplasm;cytosol,Transcription termination/antitermination protein NusA OS=Bacillus subtilis (strain 168) GN=nusA PE=1 SV=2 ,12
+P32726,GO:0005829;GO:0005737,cytosol;cytoplasm,Ribosome maturation factor RimP OS=Bacillus subtilis (strain 168) GN=rimP PE=3 SV=1 ,12
+P32727,GO:0005829;GO:0005737,cytosol;cytoplasm,Transcription termination/antitermination protein NusA OS=Bacillus subtilis (strain 168) GN=nusA PE=1 SV=2 ,12
 P32731,GO:0005737,cytoplasm,Ribosome-binding factor A OS=Bacillus subtilis (strain 168) GN=rbfA PE=3 SV=1 ,4
 P32959,GO:0005886,plasma membrane,Penicillin-binding protein 4* OS=Bacillus subtilis (strain 168) GN=pbpE PE=1 SV=1 ,11
 P33166,GO:0005622;GO:0005737,intracellular;cytoplasm,Elongation factor Tu OS=Bacillus subtilis (strain 168) GN=tuf PE=1 SV=1 ,1284
 P33189,,,Uncharacterized aminotransferase YhxA OS=Bacillus subtilis (strain 168) GN=yhxA PE=3 SV=4 ,26
 P34956,GO:0005886,plasma membrane,Quinol oxidase subunit 1 OS=Bacillus subtilis (strain 168) GN=qoxB PE=3 SV=1 ,20
-P34957,GO:0005886;GO:0043234;GO:0005623,plasma membrane;protein complex;cell,Quinol oxidase subunit 2 OS=Bacillus subtilis (strain 168) GN=qoxA PE=3 SV=4 ,49
+P34957,GO:0005623;GO:0043234;GO:0005886,cell;protein complex;plasma membrane,Quinol oxidase subunit 2 OS=Bacillus subtilis (strain 168) GN=qoxA PE=3 SV=4 ,49
 P34958,GO:0005886,plasma membrane,Quinol oxidase subunit 3 OS=Bacillus subtilis (strain 168) GN=qoxC PE=3 SV=1 ,2
 P35136,,,D-3-phosphoglycerate dehydrogenase OS=Bacillus subtilis (strain 168) GN=serA PE=3 SV=3 ,15
 P35137,GO:0005737,cytoplasm,Peptidyl-prolyl cis-trans isomerase B OS=Bacillus subtilis (strain 168) GN=ppiB PE=1 SV=1 ,49
@@ -455,21 +455,21 @@ P35163,GO:0005737,cytoplasm,Transcriptional regulatory protein ResD OS=Bacillus 
 P35166,GO:0005886,plasma membrane,Anti-sigma-X factor RsiX OS=Bacillus subtilis (strain 168) GN=rsiX PE=1 SV=2 ,4
 P36430,GO:0005739;GO:0005737,mitochondrion;cytoplasm,Leucine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=leuS PE=3 SV=3 ,50
 P36839,GO:0005737,cytoplasm,Acetylornithine aminotransferase OS=Bacillus subtilis (strain 168) GN=argD PE=3 SV=2 ,4
-P36945,GO:0005737;GO:0005829,cytoplasm;cytosol,Ribokinase OS=Bacillus subtilis (strain 168) GN=rbsK PE=3 SV=2 ,151
+P36945,GO:0005829;GO:0005737,cytosol;cytoplasm,Ribokinase OS=Bacillus subtilis (strain 168) GN=rbsK PE=3 SV=2 ,151
 P36946,GO:0005737,cytoplasm,D-ribose pyranase OS=Bacillus subtilis (strain 168) GN=rbsD PE=1 SV=1 ,24
 P36947,GO:0005886,plasma membrane,Ribose import ATP-binding protein RbsA OS=Bacillus subtilis (strain 168) GN=rbsA PE=3 SV=2 ,11
 P36949,GO:0005886,plasma membrane,Ribose import binding protein RbsB OS=Bacillus subtilis (strain 168) GN=rbsB PE=3 SV=2 ,11
 P37105,GO:0005622;GO:0005737,intracellular;cytoplasm,Signal recognition particle protein OS=Bacillus subtilis (strain 168) GN=ffh PE=1 SV=1 ,12
 P37251,,,Acetolactate synthase large subunit OS=Bacillus subtilis (strain 168) GN=ilvB PE=1 SV=4 ,2
 P37253,,,Ketol-acid reductoisomerase (NADP(+)) OS=Bacillus subtilis (strain 168) GN=ilvC PE=1 SV=1 ,8
-P37437,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L9 OS=Bacillus subtilis (strain 168) GN=rplI PE=3 SV=1 ,4
+P37437,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L9 OS=Bacillus subtilis (strain 168) GN=rplI PE=3 SV=1 ,4
 P37455,,,Single-stranded DNA-binding protein A OS=Bacillus subtilis (strain 168) GN=ssbA PE=1 SV=1 ,5
 P37464,GO:0005737,cytoplasm,Serine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=serS PE=3 SV=1 ,44
 P37465,GO:0005737,cytoplasm,Methionine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=metG PE=3 SV=1 ,21
 P37470,GO:0005737,cytoplasm,Peptidyl-tRNA hydrolase OS=Bacillus subtilis (strain 168) GN=spoVC PE=3 SV=1 ,2
 P37472,GO:0005737,cytoplasm,Hypoxanthine-guanine phosphoribosyltransferase OS=Bacillus subtilis (strain 168) GN=hprT PE=3 SV=1 ,8
 P37474,GO:0005737,cytoplasm,Transcription-repair-coupling factor OS=Bacillus subtilis (strain 168) GN=mfd PE=3 SV=1 ,2
-P37476,GO:0005739;GO:0005886;GO:0005623,mitochondrion;plasma membrane;cell,ATP-dependent zinc metalloprotease FtsH OS=Bacillus subtilis (strain 168) GN=ftsH PE=1 SV=1 ,53
+P37476,GO:0005623;GO:0005739;GO:0005886,cell;mitochondrion;plasma membrane,ATP-dependent zinc metalloprotease FtsH OS=Bacillus subtilis (strain 168) GN=ftsH PE=1 SV=1 ,53
 P37477,GO:0005737,cytoplasm,Lysine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=lysS PE=3 SV=1 ,96
 P37478,GO:0005737,cytoplasm,Transcriptional regulatory protein WalR OS=Bacillus subtilis (strain 168) GN=walR PE=1 SV=1 ,15
 P37487,GO:0005737,cytoplasm,Manganese-dependent inorganic pyrophosphatase OS=Bacillus subtilis (strain 168) GN=ppaC PE=1 SV=1 ,32
@@ -494,13 +494,13 @@ P37569,,,Protein-arginine kinase activator protein OS=Bacillus subtilis (strain 
 P37571,,,Negative regulator of genetic competence ClpC/MecB OS=Bacillus subtilis (strain 168) GN=clpC PE=1 SV=1 ,64
 P37584,GO:0005622;GO:0043234;GO:0005737,intracellular;protein complex;cytoplasm,Probable chaperone CsaA OS=Bacillus subtilis (strain 168) GN=csaA PE=1 SV=2 ,2
 P37599,GO:0005829,cytosol,Chemotaxis protein CheV OS=Bacillus subtilis (strain 168) GN=cheV PE=1 SV=1 ,6
-P37808,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase subunit alpha OS=Bacillus subtilis (strain 168) GN=atpA PE=1 SV=3 ,216
-P37809,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase subunit beta OS=Bacillus subtilis (strain 168) GN=atpD PE=1 SV=1 ,684
-P37810,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase gamma chain OS=Bacillus subtilis (strain 168) GN=atpG PE=1 SV=2 ,52
-P37811,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase subunit delta OS=Bacillus subtilis (strain 168) GN=atpH PE=1 SV=1 ,3
-P37812,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase epsilon chain OS=Bacillus subtilis (strain 168) GN=atpC PE=1 SV=1 ,34
-P37814,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase subunit b OS=Bacillus subtilis (strain 168) GN=atpF PE=1 SV=1 ,6
-P37869,GO:0005576;GO:0005623;GO:0005737;GO:0005829,extracellular region;cell;cytoplasm;cytosol,Enolase OS=Bacillus subtilis (strain 168) GN=eno PE=1 SV=4 ,368
+P37808,GO:0005622;GO:0043234;GO:0005886,intracellular;protein complex;plasma membrane,ATP synthase subunit alpha OS=Bacillus subtilis (strain 168) GN=atpA PE=1 SV=3 ,216
+P37809,GO:0005622;GO:0043234;GO:0005886,intracellular;protein complex;plasma membrane,ATP synthase subunit beta OS=Bacillus subtilis (strain 168) GN=atpD PE=1 SV=1 ,684
+P37810,GO:0005622;GO:0043234;GO:0005886,intracellular;protein complex;plasma membrane,ATP synthase gamma chain OS=Bacillus subtilis (strain 168) GN=atpG PE=1 SV=2 ,52
+P37811,GO:0005622;GO:0043234;GO:0005886,intracellular;protein complex;plasma membrane,ATP synthase subunit delta OS=Bacillus subtilis (strain 168) GN=atpH PE=1 SV=1 ,3
+P37812,GO:0005622;GO:0043234;GO:0005886,intracellular;protein complex;plasma membrane,ATP synthase epsilon chain OS=Bacillus subtilis (strain 168) GN=atpC PE=1 SV=1 ,34
+P37814,GO:0005622;GO:0043234;GO:0005886,intracellular;protein complex;plasma membrane,ATP synthase subunit b OS=Bacillus subtilis (strain 168) GN=atpF PE=1 SV=1 ,6
+P37869,GO:0005576;GO:0005623;GO:0005829;GO:0005737,extracellular region;cell;cytosol;cytoplasm,Enolase OS=Bacillus subtilis (strain 168) GN=eno PE=1 SV=4 ,368
 P37870,GO:0005622,intracellular,DNA-directed RNA polymerase subunit beta OS=Bacillus subtilis (strain 168) GN=rpoB PE=1 SV=2 ,110
 P37871,GO:0005622,intracellular,DNA-directed RNA polymerase subunit beta' OS=Bacillus subtilis (strain 168) GN=rpoC PE=1 SV=4 ,99
 P37877,GO:0005622;GO:0005737,intracellular;cytoplasm,Acetate kinase OS=Bacillus subtilis (strain 168) GN=ackA PE=1 SV=1 ,30
@@ -516,8 +516,8 @@ P37967,,,Para-nitrobenzyl esterase OS=Bacillus subtilis (strain 168) GN=pnbA PE=
 P38021,GO:0005737,cytoplasm,Ornithine aminotransferase OS=Bacillus subtilis (strain 168) GN=rocD PE=1 SV=2 ,74
 P38049,GO:0005737,cytoplasm,Heme-degrading monooxygenase HmoB OS=Bacillus subtilis (strain 168) GN=hmoB PE=1 SV=1 ,6
 P38424,GO:0005829,cytosol,Probable GTP-binding protein EngB OS=Bacillus subtilis (strain 168) GN=engB PE=1 SV=1 ,7
-P38493,GO:0005737;GO:0005829,cytoplasm;cytosol,Cytidylate kinase OS=Bacillus subtilis (strain 168) GN=cmk PE=1 SV=1 ,3
-P38494,GO:0005840;GO:0005622,ribosome;intracellular,30S ribosomal protein S1 homolog OS=Bacillus subtilis (strain 168) GN=ypfD PE=1 SV=1 ,114
+P38493,GO:0005829;GO:0005737,cytosol;cytoplasm,Cytidylate kinase OS=Bacillus subtilis (strain 168) GN=cmk PE=1 SV=1 ,3
+P38494,GO:0005622;GO:0005840,intracellular;ribosome,30S ribosomal protein S1 homolog OS=Bacillus subtilis (strain 168) GN=ypfD PE=1 SV=1 ,114
 P39062,,,Acetyl-coenzyme A synthetase OS=Bacillus subtilis (strain 168) GN=acsA PE=1 SV=1 ,44
 P39065,,,Acetoin utilization protein AcuA OS=Bacillus subtilis (strain 168) GN=acuA PE=1 SV=1 ,3
 P39066,GO:0005737,cytoplasm,Acetoin utilization protein AcuB OS=Bacillus subtilis (strain 168) GN=acuB PE=4 SV=1 ,3
@@ -548,7 +548,7 @@ P39761,,,Adenine deaminase OS=Bacillus subtilis (strain 168) GN=adeC PE=1 SV=2 ,
 P39762,,,Aminopeptidase AmpS OS=Bacillus subtilis (strain 168) GN=ampS PE=3 SV=3 ,11
 P39772,GO:0005737,cytoplasm,Asparagine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=asnS PE=3 SV=2 ,62
 P39773,GO:0005737,cytoplasm,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase OS=Bacillus subtilis (strain 168) GN=gpmI PE=1 SV=4 ",123
-P39778,GO:0043234;GO:0005737;GO:0005829,protein complex;cytoplasm;cytosol,ATP-dependent protease ATPase subunit ClpY OS=Bacillus subtilis (strain 168) GN=clpY PE=1 SV=1 ,11
+P39778,GO:0005829;GO:0043234;GO:0005737,cytosol;protein complex;cytoplasm,ATP-dependent protease ATPase subunit ClpY OS=Bacillus subtilis (strain 168) GN=clpY PE=1 SV=1 ,11
 P39779,GO:0005737,cytoplasm,GTP-sensing transcriptional pleiotropic repressor CodY OS=Bacillus subtilis (strain 168) GN=codY PE=1 SV=3 ,44
 P39793,GO:0005886,plasma membrane,Penicillin-binding protein 1A/1B OS=Bacillus subtilis (strain 168) GN=ponA PE=1 SV=1 ,5
 P39795,GO:0005737,cytoplasm,Trehalose-6-phosphate hydrolase OS=Bacillus subtilis (strain 168) GN=treA PE=1 SV=2 ,8
@@ -571,12 +571,12 @@ P40768,,,Uncharacterized protein YtkA OS=Bacillus subtilis (strain 168) GN=ytkA 
 P40778,GO:0005737,cytoplasm,UDP-N-acetylmuramate--L-alanine ligase OS=Bacillus subtilis (strain 168) GN=murC PE=3 SV=2 ,9
 P40780,,,Uncharacterized protein YtxH OS=Bacillus subtilis (strain 168) GN=ytxH PE=4 SV=2 ,20
 P40924,GO:0005737,cytoplasm,Phosphoglycerate kinase OS=Bacillus subtilis (strain 168) GN=pgk PE=1 SV=3 ,54
-P42060,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L22 OS=Bacillus subtilis (strain 168) GN=rplV PE=1 SV=1 ,2
+P42060,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L22 OS=Bacillus subtilis (strain 168) GN=rplV PE=1 SV=1 ,2
 P42065,GO:0005886,plasma membrane,Oligopeptide transport ATP-binding protein AppF OS=Bacillus subtilis (strain 168) GN=appF PE=3 SV=2 ,2
 P42068,,,Formimidoylglutamase OS=Bacillus subtilis (strain 168) GN=hutG PE=1 SV=1 ,8
 P42084,GO:0005737,cytoplasm,Imidazolonepropionase OS=Bacillus subtilis (strain 168) GN=hutI PE=1 SV=1 ,27
-P42175,GO:0005886;GO:0005623,plasma membrane;cell,Nitrate reductase alpha chain OS=Bacillus subtilis (strain 168) GN=narG PE=3 SV=2 ,48
-P42176,GO:0005886;GO:0005623,plasma membrane;cell,Nitrate reductase beta chain OS=Bacillus subtilis (strain 168) GN=narH PE=3 SV=1 ,17
+P42175,GO:0005623;GO:0005886,cell;plasma membrane,Nitrate reductase alpha chain OS=Bacillus subtilis (strain 168) GN=narG PE=3 SV=2 ,48
+P42176,GO:0005623;GO:0005886,cell;plasma membrane,Nitrate reductase beta chain OS=Bacillus subtilis (strain 168) GN=narH PE=3 SV=1 ,17
 P42199,GO:0005886,plasma membrane,L-cystine-binding protein TcyA OS=Bacillus subtilis (strain 168) GN=tcyA PE=1 SV=3 ,2
 P42234,GO:0005829,cytosol,Catalase-2 OS=Bacillus subtilis (strain 168) GN=katE PE=3 SV=2 ,11
 P42235,,,Probable 5-dehydro-4-deoxyglucarate dehydratase OS=Bacillus subtilis (strain 168) GN=ycbC PE=3 SV=2 ,2
@@ -594,17 +594,17 @@ P42416,,,Inosose dehydratase OS=Bacillus subtilis (strain 168) GN=iolE PE=1 SV=1
 P42418,,,Protein IolH OS=Bacillus subtilis (strain 168) GN=iolH PE=4 SV=1 ,19
 P42419,,,Inosose isomerase OS=Bacillus subtilis (strain 168) GN=iolI PE=1 SV=1 ,26
 P42420,,,6-phospho-5-dehydro-2-deoxy-D-gluconate aldolase OS=Bacillus subtilis (strain 168) GN=iolJ PE=1 SV=1 ,3
-P42919,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L2 OS=Bacillus subtilis (strain 168) GN=rplB PE=1 SV=3 ,19
-P42920,GO:0005840;GO:0005622,ribosome;intracellular,50S ribosomal protein L3 OS=Bacillus subtilis (strain 168) GN=rplC PE=1 SV=2 ,12
-P42921,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L4 OS=Bacillus subtilis (strain 168) GN=rplD PE=1 SV=1 ,3
-P42923,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L10 OS=Bacillus subtilis (strain 168) GN=rplJ PE=1 SV=4 ,15
+P42919,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L2 OS=Bacillus subtilis (strain 168) GN=rplB PE=1 SV=3 ,19
+P42920,GO:0005622;GO:0005840,intracellular;ribosome,50S ribosomal protein L3 OS=Bacillus subtilis (strain 168) GN=rplC PE=1 SV=2 ,12
+P42921,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L4 OS=Bacillus subtilis (strain 168) GN=rplD PE=1 SV=1 ,3
+P42923,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L10 OS=Bacillus subtilis (strain 168) GN=rplJ PE=1 SV=4 ,15
 P42955,,,Uncharacterized protein YslB OS=Bacillus subtilis (strain 168) GN=yslB PE=1 SV=1 ,7
 P42962,,,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE OS=Bacillus subtilis (strain 168) GN=ycsE PE=1 SV=2 ,13
 P42963,,,UPF0271 protein YcsF OS=Bacillus subtilis (strain 168) GN=ycsF PE=3 SV=4 ,2
 P42971,GO:0005886,plasma membrane,Penicillin-binding protein 3 OS=Bacillus subtilis (strain 168) GN=pbpC PE=3 SV=1 ,4
 P42973,GO:0005829,cytosol,Aryl-phospho-beta-D-glucosidase BglA OS=Bacillus subtilis (strain 168) GN=bglA PE=1 SV=1 ,24
 P42974,GO:0005886,plasma membrane,NADH dehydrogenase OS=Bacillus subtilis (strain 168) GN=ahpF PE=1 SV=2 ,240
-P42976,GO:0005737;GO:0005829,cytoplasm;cytosol,4-hydroxy-tetrahydrodipicolinate reductase OS=Bacillus subtilis (strain 168) GN=dapB PE=3 SV=2 ,20
+P42976,GO:0005829;GO:0005737,cytosol;cytoplasm,4-hydroxy-tetrahydrodipicolinate reductase OS=Bacillus subtilis (strain 168) GN=dapB PE=3 SV=2 ,20
 P45693,,,Stage V sporulation protein S OS=Bacillus subtilis (strain 168) GN=spoVS PE=1 SV=1 ,28
 P45694,,,Transketolase OS=Bacillus subtilis (strain 168) GN=tkt PE=3 SV=2 ,257
 P45872,GO:0005737,cytoplasm,Peptide chain release factor 1 OS=Bacillus subtilis (strain 168) GN=prfA PE=3 SV=1 ,2
@@ -620,9 +620,9 @@ P46327,,,Uncharacterized protein YxbC OS=Bacillus subtilis (strain 168) GN=yxbC 
 P46336,,,Protein IolS OS=Bacillus subtilis (strain 168) GN=iolS PE=1 SV=1 ,62
 P46337,GO:0005622,intracellular,HTH-type transcriptional regulator IolR OS=Bacillus subtilis (strain 168) GN=iolR PE=4 SV=1 ,2
 P46343,GO:0005737,cytoplasm,PhoH-like protein OS=Bacillus subtilis (strain 168) GN=phoH PE=3 SV=3 ,2
-P46353,GO:0005737;GO:0005829,cytoplasm;cytosol,Phosphopentomutase OS=Bacillus subtilis (strain 168) GN=drm PE=3 SV=3 ,37
+P46353,GO:0005829;GO:0005737,cytosol;cytoplasm,Phosphopentomutase OS=Bacillus subtilis (strain 168) GN=drm PE=3 SV=3 ,37
 P46354,,,Purine nucleoside phosphorylase 1 OS=Bacillus subtilis (strain 168) GN=punA PE=1 SV=1 ,9
-P46898,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L6 OS=Bacillus subtilis (strain 168) GN=rplF PE=1 SV=2 ,49
+P46898,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L6 OS=Bacillus subtilis (strain 168) GN=rplF PE=1 SV=2 ,49
 P46905,,,Uncharacterized oxidoreductase YccK OS=Bacillus subtilis (strain 168) GN=yccK PE=3 SV=2 ,3
 P46906,GO:0005737,cytoplasm,Arginine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=argS PE=3 SV=2 ,29
 P46911,GO:0009579,thylakoid,Menaquinol-cytochrome c reductase iron-sulfur subunit OS=Bacillus subtilis (strain 168) GN=qcrA PE=3 SV=1 ,16
@@ -654,7 +654,7 @@ P51785,,,Dihydroxy-acid dehydratase OS=Bacillus subtilis (strain 168) GN=ilvD PE
 P51831,,,3-oxoacyl-[acyl-carrier-protein] reductase FabG OS=Bacillus subtilis (strain 168) GN=fabG PE=3 SV=3 ,4
 P51835,GO:0005886;GO:0005737,plasma membrane;cytoplasm,Signal recognition particle receptor FtsY OS=Bacillus subtilis (strain 168) GN=ftsY PE=1 SV=2 ,11
 P52996,GO:0005737,cytoplasm,3-methyl-2-oxobutanoate hydroxymethyltransferase OS=Bacillus subtilis (strain 168) GN=panB PE=3 SV=1 ,8
-P52998,GO:0005737;GO:0005829,cytoplasm;cytosol,Pantothenate synthetase OS=Bacillus subtilis (strain 168) GN=panC PE=3 SV=1 ,2
+P52998,GO:0005829;GO:0005737,cytosol;cytoplasm,Pantothenate synthetase OS=Bacillus subtilis (strain 168) GN=panC PE=3 SV=1 ,2
 P53001,GO:0005737,cytoplasm,Aspartate aminotransferase OS=Bacillus subtilis (strain 168) GN=aspB PE=3 SV=1 ,30
 P54154,,,Peptide methionine sulfoxide reductase MsrA OS=Bacillus subtilis (strain 168) GN=msrA PE=1 SV=1 ,5
 P54155,,,Peptide methionine sulfoxide reductase MsrB OS=Bacillus subtilis (strain 168) GN=msrB PE=1 SV=1 ,5
@@ -671,10 +671,10 @@ P54377,,,Probable glycine dehydrogenase (decarboxylating) subunit 2 OS=Bacillus 
 P54378,,,Aminomethyltransferase OS=Bacillus subtilis (strain 168) GN=gcvT PE=1 SV=2 ,18
 P54381,GO:0005737,cytoplasm,Glycine--tRNA ligase beta subunit OS=Bacillus subtilis (strain 168) GN=glyS PE=3 SV=2 ,13
 P54382,GO:0005829,cytosol,Bifunctional protein FolD OS=Bacillus subtilis (strain 168) GN=folD PE=3 SV=1 ,24
-P54418,GO:0005737;GO:0005829,cytoplasm;cytosol,Phosphoenolpyruvate carboxykinase (ATP) OS=Bacillus subtilis (strain 168) GN=pckA PE=3 SV=3 ,103
-P54419,GO:0005737;GO:0005829,cytoplasm;cytosol,S-adenosylmethionine synthase OS=Bacillus subtilis (strain 168) GN=metK PE=3 SV=2 ,77
+P54418,GO:0005829;GO:0005737,cytosol;cytoplasm,Phosphoenolpyruvate carboxykinase (ATP) OS=Bacillus subtilis (strain 168) GN=pckA PE=3 SV=3 ,103
+P54419,GO:0005829;GO:0005737,cytosol;cytoplasm,S-adenosylmethionine synthase OS=Bacillus subtilis (strain 168) GN=metK PE=3 SV=2 ,77
 P54420,,,Asparagine synthetase [glutamine-hydrolyzing] 1 OS=Bacillus subtilis (strain 168) GN=asnB PE=1 SV=2 ,11
-P54423,GO:0005576;GO:0005618,extracellular region;cell wall,Cell wall-associated protease OS=Bacillus subtilis (strain 168) GN=wprA PE=1 SV=2 ,11
+P54423,GO:0005618;GO:0005576,cell wall;extracellular region,Cell wall-associated protease OS=Bacillus subtilis (strain 168) GN=wprA PE=1 SV=2 ,11
 P54452,,,Uncharacterized protein YqeG OS=Bacillus subtilis (strain 168) GN=yqeG PE=4 SV=1 ,3
 P54453,GO:0005739,mitochondrion,Uncharacterized protein YqeH OS=Bacillus subtilis (strain 168) GN=yqeH PE=1 SV=1 ,10
 P54457,GO:0005737,cytoplasm,Ribosomal silencing factor RsfS OS=Bacillus subtilis (strain 168) GN=rsfS PE=3 SV=1 ,2
@@ -684,7 +684,7 @@ P54466,GO:0005886,plasma membrane,UPF0365 protein YqfA OS=Bacillus subtilis (str
 P54470,,,"Putative pyruvate, phosphate dikinase regulatory protein OS=Bacillus subtilis (strain 168) GN=yqfL PE=1 SV=1 ",2
 P54472,GO:0005737,cytoplasm,GTP cyclohydrolase 1 type 2 homolog OS=Bacillus subtilis (strain 168) GN=yqfO PE=3 SV=2 ,13
 P54473,,,4-hydroxy-3-methylbut-2-enyl diphosphate reductase OS=Bacillus subtilis (strain 168) GN=ispH PE=3 SV=2 ,6
-P54475,GO:0043226;GO:0005622;GO:0005730;GO:0005737,organelle;intracellular;nucleolus;cytoplasm,DEAD-box ATP-dependent RNA helicase CshB OS=Bacillus subtilis (strain 168) GN=cshB PE=1 SV=1 ,6
+P54475,GO:0005622;GO:0005730;GO:0043226;GO:0005737,intracellular;nucleolus;organelle;cytoplasm,DEAD-box ATP-dependent RNA helicase CshB OS=Bacillus subtilis (strain 168) GN=cshB PE=1 SV=1 ,6
 P54482,,,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin) OS=Bacillus subtilis (strain 168) GN=ispG PE=3 SV=1 ,4
 P54495,GO:0005737,cytoplasm,Glucokinase OS=Bacillus subtilis (strain 168) GN=glcK PE=1 SV=2 ,8
 P54499,GO:0005829,cytosol,UPF0045 protein YqgV OS=Bacillus subtilis (strain 168) GN=yqgV PE=3 SV=2 ,3
@@ -725,9 +725,9 @@ P70947,,,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU OS=Bacillus
 P70948,,,Putative esterase YitV OS=Bacillus subtilis (strain 168) GN=yitV PE=4 SV=2 ,7
 P70949,,,MIP18 family protein YitW OS=Bacillus subtilis (strain 168) GN=yitW PE=3 SV=2 ,14
 P70962,,,Response regulator aspartate phosphatase B OS=Bacillus subtilis (strain 168) GN=rapB PE=3 SV=1 ,5
-P70974,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L13 OS=Bacillus subtilis (strain 168) GN=rplM PE=1 SV=2 ,18
+P70974,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L13 OS=Bacillus subtilis (strain 168) GN=rplM PE=1 SV=2 ,18
 P70996,,,Uncharacterized protein YwhD OS=Bacillus subtilis (strain 168) GN=ywhD PE=4 SV=1 ,6
-P70998,GO:0005737;GO:0005829,cytoplasm;cytosol,Polyamine aminopropyltransferase OS=Bacillus subtilis (strain 168) GN=speE PE=1 SV=1 ,2
+P70998,GO:0005829;GO:0005737,cytosol;cytoplasm,Polyamine aminopropyltransferase OS=Bacillus subtilis (strain 168) GN=speE PE=1 SV=1 ,2
 P70999,,,Agmatinase OS=Bacillus subtilis (strain 168) GN=speB PE=1 SV=1 ,6
 P71011,GO:0005737,cytoplasm,Antilisterial bacteriocin subtilosin biosynthesis protein AlbA OS=Bacillus subtilis (strain 168) GN=albA PE=1 SV=1 ,21
 P71012,GO:0005886,plasma membrane,PTS system fructose-specific EIIABC component OS=Bacillus subtilis (strain 168) GN=fruA PE=1 SV=2 ,3
@@ -799,7 +799,7 @@ P96608,,,Putative acyl-CoA dehydrogenase YdbM OS=Bacillus subtilis (strain 168) 
 P96611,GO:0005829,cytosol,Thioredoxin-like protein YdbP OS=Bacillus subtilis (strain 168) GN=ydbP PE=2 SV=1 ,16
 P96612,GO:0005737,cytoplasm,D-alanine--D-alanine ligase OS=Bacillus subtilis (strain 168) GN=ddl PE=3 SV=1 ,23
 P96613,GO:0005737,cytoplasm,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase OS=Bacillus subtilis (strain 168) GN=murF PE=3 SV=1 ,14
-P96614,GO:0043226;GO:0005886;GO:0005622;GO:0005840;GO:0005730;GO:0005737,organelle;plasma membrane;intracellular;ribosome;nucleolus;cytoplasm,DEAD-box ATP-dependent RNA helicase CshA OS=Bacillus subtilis (strain 168) GN=cshA PE=1 SV=2 ,26
+P96614,GO:0043226;GO:0005737;GO:0005886;GO:0005622;GO:0005840;GO:0005730,organelle;cytoplasm;plasma membrane;intracellular;ribosome;nucleolus,DEAD-box ATP-dependent RNA helicase CshA OS=Bacillus subtilis (strain 168) GN=cshA PE=1 SV=2 ,26
 P96681,,,Uncharacterized HTH-type transcriptional regulator YdfD OS=Bacillus subtilis (strain 168) GN=ydfD PE=3 SV=1 ,2
 P96684,,,Uncharacterized protein YdfG OS=Bacillus subtilis (strain 168) GN=ydfG PE=4 SV=1 ,10
 P96707,,,Putative NAD(P)H nitroreductase YdgI OS=Bacillus subtilis (strain 168) GN=ydgI PE=3 SV=1 ,2
@@ -809,8 +809,8 @@ P97247,,,Uncharacterized HTH-type transcriptional regulator YsmB OS=Bacillus sub
 Q00828,,,Response regulator aspartate phosphatase A OS=Bacillus subtilis (strain 168) GN=rapA PE=2 SV=2 ,6
 Q01465,,,Rod shape-determining protein MreB OS=Bacillus subtilis (strain 168) GN=mreB PE=3 SV=3 ,7
 Q03222,,,Transcription termination factor Rho OS=Bacillus subtilis (strain 168) GN=rho PE=3 SV=3 ,7
-Q03223,GO:0005840;GO:0005622,ribosome;intracellular,50S ribosomal protein L31 OS=Bacillus subtilis (strain 168) GN=rpmE PE=1 SV=1 ,8
-Q03224,GO:0005737;GO:0005829,cytoplasm;cytosol,"Fructose-1,6-bisphosphatase class 2 OS=Bacillus subtilis (strain 168) GN=glpX PE=1 SV=1 ",14
+Q03223,GO:0005622;GO:0005840,intracellular;ribosome,50S ribosomal protein L31 OS=Bacillus subtilis (strain 168) GN=rpmE PE=1 SV=1 ,8
+Q03224,GO:0005829;GO:0005737,cytosol;cytoplasm,"Fructose-1,6-bisphosphatase class 2 OS=Bacillus subtilis (strain 168) GN=glpX PE=1 SV=1 ",14
 Q03523,GO:0005737,cytoplasm,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase OS=Bacillus subtilis (strain 168) GN=murE PE=3 SV=1 ",7
 Q04385,,,Uncharacterized protein YgxA OS=Bacillus subtilis (strain 168) GN=ygxA PE=4 SV=2 ,11
 Q04747,,,Surfactin synthase subunit 2 OS=Bacillus subtilis (strain 168) GN=srfAB PE=1 SV=3 ,111
@@ -818,15 +818,15 @@ Q04795,GO:0005737,cytoplasm,Aspartokinase 1 OS=Bacillus subtilis (strain 168) GN
 Q04796,GO:0005737,cytoplasm,4-hydroxy-tetrahydrodipicolinate synthase OS=Bacillus subtilis (strain 168) GN=dapA PE=1 SV=1 ,6
 Q04797,GO:0005737,cytoplasm,Aspartate-semialdehyde dehydrogenase OS=Bacillus subtilis (strain 168) GN=asd PE=1 SV=1 ,86
 Q05852,,,UTP--glucose-1-phosphate uridylyltransferase OS=Bacillus subtilis (strain 168) GN=gtaB PE=1 SV=1 ,194
-Q05873,GO:0005737;GO:0005829,cytoplasm;cytosol,Valine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=valS PE=1 SV=3 ,18
+Q05873,GO:0005829;GO:0005737,cytosol;cytoplasm,Valine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=valS PE=1 SV=3 ,18
 Q06004,,,Sorbitol dehydrogenase OS=Bacillus subtilis (strain 168) GN=gutB PE=1 SV=3 ,2
-Q06752,GO:0005737;GO:0005829,cytoplasm;cytosol,Cysteine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=cysS PE=1 SV=1 ,25
+Q06752,GO:0005829;GO:0005737,cytosol;cytoplasm,Cysteine--tRNA ligase OS=Bacillus subtilis (strain 168) GN=cysS PE=1 SV=1 ,25
 Q06753,GO:0005829,cytosol,Putative TrmH family tRNA/rRNA methyltransferase YacO OS=Bacillus subtilis (strain 168) GN=yacO PE=3 SV=2 ,7
 Q06795,GO:0005829,cytosol,Transcription termination/antitermination protein NusG OS=Bacillus subtilis (strain 168) GN=nusG PE=1 SV=1 ,9
-Q06797,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L1 OS=Bacillus subtilis (strain 168) GN=rplA PE=1 SV=4 ,71
+Q06797,GO:0005622;GO:0005840;GO:0005829,intracellular;ribosome;cytosol,50S ribosomal protein L1 OS=Bacillus subtilis (strain 168) GN=rplA PE=1 SV=4 ,71
 Q07836,,,Immunity protein WapI OS=Bacillus subtilis (strain 168) GN=wapI PE=1 SV=1 ,7
 Q07876,GO:0005737,cytoplasm,Ribosomal RNA small subunit methyltransferase H OS=Bacillus subtilis (strain 168) GN=rsmH PE=3 SV=2 ,13
-Q08352,GO:0005737;GO:0005829,cytoplasm;cytosol,Alanine dehydrogenase OS=Bacillus subtilis (strain 168) GN=ald PE=1 SV=1 ,391
+Q08352,GO:0005829;GO:0005737,cytosol;cytoplasm,Alanine dehydrogenase OS=Bacillus subtilis (strain 168) GN=ald PE=1 SV=1 ,391
 Q08432,,,Cystathionine beta-lyase PatB OS=Bacillus subtilis (strain 168) GN=patB PE=1 SV=1 ,2
 Q08787,,,Surfactin synthase subunit 3 OS=Bacillus subtilis (strain 168) GN=srfAC PE=1 SV=2 ,10
 Q08788,GO:0005737,cytoplasm,Surfactin synthase thioesterase subunit OS=Bacillus subtilis (strain 168) GN=srfAD PE=1 SV=3 ,35
