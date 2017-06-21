@@ -1,8 +1,8 @@
 ,go,go_name,name,q
 G3XCT6,GO:0005737,cytoplasm,Histidine kinase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1458 PE=4 SV=1 ,6
-G3XCU2,GO:0005575,cellular_component,HTH-type transcriptional regulator ArgR OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=argR PE=4 SV=1 ,2
-G3XCU6,GO:0005575,cellular_component,Transcriptional regulator CysB OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cysB PE=4 SV=1 ,4
-G3XCV0,GO:0005575,cellular_component,Transcriptional regulator FleQ OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fleQ PE=1 SV=1 ,15
+G3XCU2,,,HTH-type transcriptional regulator ArgR OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=argR PE=4 SV=1 ,2
+G3XCU6,,,Transcriptional regulator CysB OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cysB PE=4 SV=1 ,4
+G3XCV0,,,Transcriptional regulator FleQ OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fleQ PE=1 SV=1 ,15
 G3XCX2,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0624 PE=4 SV=1 ,9
 G3XCX5,,,Probable bacteriophage protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0618 PE=4 SV=1 ,2
 G3XCZ4,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0891 PE=4 SV=1 ,4
@@ -18,7 +18,7 @@ G3XD36,,,Phosphoenolpyruvate-protein phosphotransferase PtsP OS=Pseudomonas aeru
 G3XD39,,,Probable bacteriophage protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0622 PE=4 SV=1 ,19
 G3XD40,,,Probable acyl-CoA thiolase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3925 PE=3 SV=1 ,9
 G3XD47,GO:0005886;GO:0005615,plasma membrane;extracellular space,Arginine/ornithine binding protein AotJ OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=aotJ PE=3 SV=1 ,112
-G3XD48,GO:0005575,cellular_component,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5008 PE=4 SV=1 ,3
+G3XD48,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5008 PE=4 SV=1 ,3
 G3XD52,GO:0043234;GO:0005829,protein complex;cytosol,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3302 PE=4 SV=1 ,3
 G3XD61,,,"UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=wbpI PE=1 SV=1 ",25
 G3XD72,GO:0005829,cytosol,Probable purine-binding chemotaxis protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1464 PE=4 SV=1 ,6
@@ -26,7 +26,7 @@ G3XD74,,,D-ala-D-ala-carboxypeptidase OS=Pseudomonas aeruginosa (strain ATCC 156
 G3XD76,GO:0005737,cytoplasm,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=dapD PE=1 SV=1 ",5
 G3XD85,,,Probable glycosyltransferase WbpH OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=wbpH PE=4 SV=1 ,4
 G3XD87,GO:0005623,cell,Respiratory nitrate reductase beta chain OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=narH PE=4 SV=1 ,3
-G3XD94,GO:0005575,cellular_component,UDP-N-acetyl-D-glucosamine 6-dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=wbpA PE=1 SV=1 ,42
+G3XD94,,,UDP-N-acetyl-D-glucosamine 6-dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=wbpA PE=1 SV=1 ,42
 G3XDA2,,,3-oxoacyl-[acyl-carrier-protein] synthase 2 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fabF1 PE=1 SV=1 ,4
 G3XDA8,GO:0005576;GO:0005623,extracellular region;cell,Phosphate-binding protein PstS OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pstS PE=1 SV=1 ,8
 G3XDB0,,,Catabolite repression control protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=crc PE=4 SV=1 ,5
@@ -61,8 +61,8 @@ P07345,GO:0005737,cytoplasm,Tryptophan synthase beta chain OS=Pseudomonas aerugi
 P08280,GO:0005737;GO:0005829,cytoplasm;cytosol,Protein RecA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=recA PE=3 SV=1 ,9
 P08308,GO:0005737,cytoplasm,"Ornithine carbamoyltransferase, catabolic OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=arcB PE=1 SV=3 ",135
 P09591,GO:0005622;GO:0005737,intracellular;cytoplasm,Elongation factor Tu OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=tufA PE=3 SV=2 ,1377
-P11221,GO:0005886;GO:0005575;GO:0030312,plasma membrane;cellular_component;external encapsulating structure,Major outer membrane lipoprotein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=oprI PE=3 SV=1 ,6
-P13794,GO:0005886;GO:0043234;GO:0005575;GO:0030312,plasma membrane;protein complex;cellular_component;external encapsulating structure,Outer membrane porin F OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=oprF PE=1 SV=1 ,13
+P11221,GO:0005886;GO:0030312,plasma membrane;external encapsulating structure,Major outer membrane lipoprotein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=oprI PE=3 SV=1 ,6
+P13794,GO:0005886;GO:0043234;GO:0030312,plasma membrane;protein complex;external encapsulating structure,Outer membrane porin F OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=oprF PE=1 SV=1 ,13
 P13981,GO:0005737,cytoplasm,Arginine deiminase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=arcA PE=1 SV=2 ,185
 P13982,GO:0005737;GO:0005829,cytoplasm;cytosol,Carbamate kinase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=arcC PE=3 SV=1 ,27
 P14165,GO:0043234;GO:0005737,protein complex;cytoplasm,Citrate synthase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=gltA PE=3 SV=2 ,81
@@ -82,7 +82,7 @@ P23189,GO:0005737,cytoplasm,Glutathione reductase OS=Pseudomonas aeruginosa (str
 P23926,GO:0005622,intracellular,Transcriptional activator protein anr OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=anr PE=3 SV=1 ,2
 P24474,GO:0005623,cell,Nitrite reductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nirS PE=1 SV=1 ,27
 P24562,GO:0005622,intracellular,UPF0001 protein PA0394 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0394 PE=3 SV=1 ,4
-P26275,GO:0005622;GO:0005575,intracellular;cellular_component,Positive alginate biosynthesis regulatory protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=algR PE=3 SV=1 ,18
+P26275,GO:0005622,intracellular,Positive alginate biosynthesis regulatory protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=algR PE=3 SV=1 ,18
 P26276,,,Phosphomannomutase/phosphoglucomutase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=algC PE=1 SV=4 ,6
 P26480,GO:0005737,cytoplasm,RNA polymerase sigma factor RpoD OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rpoD PE=3 SV=1 ,18
 P27726,GO:0005737,cytoplasm,Glyceraldehyde-3-phosphate dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=gap PE=3 SV=3 ,5
@@ -109,20 +109,20 @@ P43336,GO:0005737;GO:0005829,cytoplasm;cytosol,Aromatic-amino-acid aminotransfer
 P43501,GO:0005622,intracellular,Protein PilH OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pilH PE=3 SV=1 ,10
 P43903,GO:0005829,cytosol,Quinone oxidoreductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=qor PE=3 SV=2 ,5
 P46384,GO:0005622,intracellular,Protein PilG OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pilG PE=3 SV=1 ,2
-P47203,GO:0005886;GO:0005575;GO:0005623,plasma membrane;cellular_component;cell,Cell division protein FtsA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ftsA PE=3 SV=2 ,11
+P47203,GO:0005886;GO:0005623,plasma membrane;cell,Cell division protein FtsA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ftsA PE=3 SV=2 ,11
 P47204,GO:0005623;GO:0005737,cell;cytoplasm,Cell division protein FtsZ OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ftsZ PE=1 SV=2 ,3
 P47205,,,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=lpxC PE=1 SV=2 ,29
 P48247,GO:0005737,cytoplasm,"Glutamate-1-semialdehyde 2,1-aminomutase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hemL PE=3 SV=2 ",23
 P48372,GO:0005694;GO:0005737,chromosome;cytoplasm,DNA gyrase subunit A OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=gyrA PE=3 SV=1 ,9
 P50587,,,Orotate phosphoribosyltransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pyrE PE=3 SV=2 ,12
 P50597,,,Ribonuclease PH OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rph PE=1 SV=2 ,6
-P50598,GO:0005886;GO:0005575,plasma membrane;cellular_component,Protein TolQ OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=tolQ PE=3 SV=1 ,3
+P50598,GO:0005886,plasma membrane,Protein TolQ OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=tolQ PE=3 SV=1 ,3
 P50601,GO:0005623,cell,Protein TolB OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=tolB PE=3 SV=2 ,5
 P50987,GO:0005737,cytoplasm,Argininosuccinate lyase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=argH PE=3 SV=2 ,11
 P53593,GO:0043234;GO:0005737,protein complex;cytoplasm,Succinyl-CoA ligase [ADP-forming] subunit beta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=sucC PE=3 SV=2 ,123
 P53641,,,Superoxide dismutase [Fe] OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=sodB PE=3 SV=3 ,140
 P55218,,,O-succinylhomoserine sulfhydrylase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=metZ PE=1 SV=1 ,17
-P55222,GO:0005622;GO:0005575,intracellular;cellular_component,Cyclic AMP receptor-like protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=vfr PE=1 SV=1 ,3
+P55222,GO:0005622,intracellular,Cyclic AMP receptor-like protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=vfr PE=1 SV=1 ,3
 P57112,GO:0005737,cytoplasm,Soluble pyridine nucleotide transhydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=sthA PE=1 SV=2 ,9
 P57665,GO:0005737,cytoplasm,Oligoribonuclease OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=orn PE=3 SV=1 ,5
 P57668,GO:0005623,cell,Probable thiol peroxidase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=tpx PE=3 SV=1 ,21
@@ -140,7 +140,7 @@ P80358,,,Arginine N-succinyltransferase subunit beta OS=Pseudomonas aeruginosa (
 P95414,,,Protein NirG OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nirG PE=4 SV=1 ,2
 P95459,GO:0005737,cytoplasm,Major cold shock protein CspA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cspA PE=2 SV=1 ,4
 Q01269,GO:0005623,cell,Cyclohexadienyl dehydratase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pheC PE=1 SV=2 ,5
-Q03456,GO:0005575;GO:0005737,cellular_component;cytoplasm,Ferric uptake regulation protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fur PE=1 SV=1 ,11
+Q03456,GO:0005737,cytoplasm,Ferric uptake regulation protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fur PE=1 SV=1 ,11
 Q06579,,,Pyocin-S2 immunity protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=imm2 PE=1 SV=1 ,9
 Q51342,,,Amidophosphoribosyltransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=purF PE=3 SV=3 ,36
 Q51344,GO:0005737,cytoplasm,Aspartate-semialdehyde dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=asd PE=1 SV=2 ,13
@@ -150,7 +150,7 @@ Q51375,GO:0005737;GO:0005829,cytoplasm;cytosol,3-isopropylmalate dehydrogenase O
 Q51422,GO:0005737,cytoplasm,Aspartate--tRNA(Asp/Asn) ligase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=aspS PE=1 SV=2 ,37
 Q51434,GO:0043226;GO:0005623;GO:0005737,organelle;cell;cytoplasm,Protein phosphatase CheZ OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cheZ PE=3 SV=2 ,2
 Q51455,GO:0005737,cytoplasm,Chemotaxis protein CheY OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cheY PE=3 SV=1 ,5
-Q51466,GO:0043226;GO:0005886;GO:0005575;GO:0005623,organelle;plasma membrane;cellular_component;cell,Flagellar motor switch protein FliN OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fliN PE=3 SV=2 ,2
+Q51466,GO:0043226;GO:0005886;GO:0005623,organelle;plasma membrane;cell,Flagellar motor switch protein FliN OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fliN PE=3 SV=2 ,2
 Q51551,GO:0005737,cytoplasm,Dihydroorotase-like protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pyrC' PE=3 SV=2 ,11
 Q51559,,,Rhamnosyltransferase 1 subunit A OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rhlA PE=2 SV=2 ,4
 Q51561,GO:0005622,intracellular,DNA-directed RNA polymerase subunit beta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rpoB PE=3 SV=2 ,148
@@ -166,13 +166,13 @@ Q59654,GO:0005829,cytosol,Orotidine 5'-phosphate decarboxylase OS=Pseudomonas ae
 Q60169,GO:0005737,cytoplasm,Porphobilinogen deaminase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hemC PE=3 SV=2 ,6
 Q9HT09,GO:0005737;GO:0005829,cytoplasm;cytosol,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=mnmG PE=3 SV=1 ,2
 Q9HT12,,,Chromosome partitioning protein Spo0J OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=spoOJ PE=1 SV=1 ,8
-Q9HT17,GO:0005886;GO:0043234;GO:0005575;GO:0005622,plasma membrane;protein complex;cellular_component;intracellular,ATP synthase subunit delta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atpH PE=3 SV=1 ,7
-Q9HT18,GO:0005886;GO:0043234;GO:0005575;GO:0005622,plasma membrane;protein complex;cellular_component;intracellular,ATP synthase subunit alpha OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atpA PE=3 SV=1 ,26
-Q9HT19,GO:0005886;GO:0043234;GO:0005575;GO:0005622,plasma membrane;protein complex;cellular_component;intracellular,ATP synthase gamma chain OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atpG PE=3 SV=1 ,20
-Q9HT20,GO:0005886;GO:0043234;GO:0005575;GO:0005622,plasma membrane;protein complex;cellular_component;intracellular,ATP synthase subunit beta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atpD PE=3 SV=1 ,78
+Q9HT17,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase subunit delta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atpH PE=3 SV=1 ,7
+Q9HT18,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase subunit alpha OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atpA PE=3 SV=1 ,26
+Q9HT19,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase gamma chain OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atpG PE=3 SV=1 ,20
+Q9HT20,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,ATP synthase subunit beta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atpD PE=3 SV=1 ,78
 Q9HT22,GO:0005737,cytoplasm,Bifunctional protein GlmU OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=glmU PE=3 SV=1 ,3
 Q9HT25,GO:0005737;GO:0005829,cytoplasm;cytosol,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=glmS PE=3 SV=3 ,2
-Q9HT45,GO:0005575,cellular_component,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5528 PE=4 SV=1 ,2
+Q9HT45,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5528 PE=4 SV=1 ,2
 Q9HT46,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5527 PE=4 SV=1 ,4
 Q9HT50,,,Probable aminotransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5523 PE=3 SV=1 ,7
 Q9HT52,,,Probable short-chain dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5521 PE=3 SV=1 ,2
@@ -194,7 +194,7 @@ Q9HTI6,GO:0005886;GO:0043234;GO:0005623,plasma membrane;protein complex;cell,Unc
 Q9HTJ1,,,NAD/NADP-dependent betaine aldehyde dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=betB PE=1 SV=1 ,59
 Q9HTJ6,GO:0005622,intracellular,Probable two-component response regulator OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5364 PE=4 SV=1 ,2
 Q9HTJ9,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5359 PE=4 SV=1 ,12
-Q9HTL4,GO:0005575,cellular_component,OxyR OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=oxyR PE=1 SV=1 ,6
+Q9HTL4,,,OxyR OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=oxyR PE=1 SV=1 ,6
 Q9HTL5,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5343 PE=4 SV=1 ,2
 Q9HTL9,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5339 PE=4 SV=1 ,8
 Q9HTM1,,,DNA-directed RNA polymerase subunit omega OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rpoZ PE=3 SV=1 ,8
@@ -209,7 +209,7 @@ Q9HTR6,,,Nitrogen regulatory protein P-II 2 OS=Pseudomonas aeruginosa (strain AT
 Q9HTR9,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5285 PE=4 SV=1 ,3
 Q9HTS6,,,Nucleoside diphosphate kinase regulator OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rnk PE=4 SV=1 ,7
 Q9HTS9,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5271 PE=4 SV=1 ,25
-Q9HTT7,GO:0005575,cellular_component,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5258 PE=4 SV=1 ,2
+Q9HTT7,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5258 PE=4 SV=1 ,2
 Q9HTU9,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5245 PE=4 SV=1 ,26
 Q9HTV1,,,Transcription termination factor Rho OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rho PE=3 SV=1 ,21
 Q9HTW1,GO:0005634,nucleus,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5229 PE=4 SV=1 ,3
@@ -245,7 +245,7 @@ Q9HU83,GO:0005737,cytoplasm,Urocanate hydratase OS=Pseudomonas aeruginosa (strai
 Q9HU91,GO:0005737,cytoplasm,Imidazolonepropionase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hutI PE=3 SV=1 ,2
 Q9HUA3,GO:0005737,cytoplasm,Proline iminopeptidase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5080 PE=3 SV=1 ,9
 Q9HUA5,GO:0005886;GO:0005623,plasma membrane;cell,Glucans biosynthesis protein G OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=opgG PE=3 SV=1 ,6
-Q9HUA7,GO:0005575,cellular_component,Probable binding protein component of ABC transporter OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5076 PE=3 SV=1 ,8
+Q9HUA7,,,Probable binding protein component of ABC transporter OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5076 PE=3 SV=1 ,8
 Q9HUB6,GO:0005737,cytoplasm,Phosphoribosyl-ATP pyrophosphatase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hisE PE=3 SV=1 ,2
 Q9HUC3,,,Polyhydroxyalkanoate synthesis protein PhaF OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=phaF PE=4 SV=1 ,10
 Q9HUC5,GO:0043234;GO:0005737;GO:0005829,protein complex;cytoplasm;cytosol,ATP-dependent protease ATPase subunit HslU OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hslU PE=3 SV=1 ,7
@@ -258,11 +258,11 @@ Q9HUF4,GO:0005829,cytosol,Glutamate-ammonia-ligase adenylyltransferase OS=Pseudo
 Q9HUG0,,,Probable carbamoyl transferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA5005 PE=4 SV=1 ,5
 Q9HUG9,GO:0005829,cytosol,Bifunctional protein HldE OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hldE PE=3 SV=1 ,3
 Q9HUJ4,,,Adenosine diphosphate sugar pyrophosphatase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=aspP PE=3 SV=1 ,6
-Q9HUK1,GO:0005694;GO:0043234;GO:0005575;GO:0005886;GO:0005737,chromosome;protein complex;cellular_component;plasma membrane;cytoplasm,DNA topoisomerase 4 subunit A OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=parC PE=3 SV=1 ,3
+Q9HUK1,GO:0005694;GO:0043234;GO:0005886;GO:0005737,chromosome;protein complex;plasma membrane;cytoplasm,DNA topoisomerase 4 subunit A OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=parC PE=3 SV=1 ,3
 Q9HUK5,,,Probable phosphoserine phosphatase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4960 PE=4 SV=1 ,3
 Q9HUK9,GO:0005737,cytoplasm,Sulfurtransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rhdA PE=4 SV=1 ,6
 Q9HUL0,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4955 PE=4 SV=1 ,3
-Q9HUM2,GO:0005575,cellular_component,Protease subunit HflK OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hflK PE=4 SV=1 ,5
+Q9HUM2,,,Protease subunit HflK OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hflK PE=4 SV=1 ,5
 Q9HUM5,GO:0005737,cytoplasm,ATP phosphoribosyltransferase regulatory subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hisZ PE=3 SV=1 ,10
 Q9HUM6,GO:0005737,cytoplasm,Adenylosuccinate synthetase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=purA PE=3 SV=1 ,29
 Q9HUM7,GO:0005737,cytoplasm,Ribonuclease R OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rnr PE=3 SV=1 ,7
@@ -279,15 +279,15 @@ Q9HUV8,,,Phosphoribosylamine--glycine ligase OS=Pseudomonas aeruginosa (strain A
 Q9HUV9,,,Bifunctional purine biosynthesis protein PurH OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=purH PE=3 SV=1 ,10
 Q9HV00,GO:0005737,cytoplasm,Protein FdhE homolog OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fdhE PE=1 SV=1 ,3
 Q9HV01,GO:0005737,cytoplasm,L-seryl-tRNA(Sec) selenium transferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=selA PE=3 SV=1 ,5
-Q9HV39,GO:0005575,cellular_component,Probable transcriptional regulator OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4769 PE=4 SV=1 ,3
+Q9HV39,,,Probable transcriptional regulator OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4769 PE=4 SV=1 ,3
 Q9HV40,GO:0005737,cytoplasm,SsrA-binding protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=smpB PE=3 SV=1 ,7
 Q9HV42,GO:0005737;GO:0005829,cytoplasm;cytosol,Protein GrpE OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=grpE PE=3 SV=1 ,16
 Q9HV43,,,Chaperone protein DnaK OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=dnaK PE=3 SV=1 ,114
 Q9HV46,,,Transcription elongation factor GreA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=greA PE=3 SV=1 ,14
-Q9HV48,GO:0005886;GO:0005575,plasma membrane;cellular_component,ATP-dependent zinc metalloprotease FtsH OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ftsH PE=3 SV=1 ,3
+Q9HV48,GO:0005886,plasma membrane,ATP-dependent zinc metalloprotease FtsH OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ftsH PE=3 SV=1 ,3
 Q9HV50,,,Phosphoglucosamine mutase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=glmM PE=3 SV=1 ,13
 Q9HV51,GO:0005737;GO:0005829,cytoplasm;cytosol,Triosephosphate isomerase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=tpiA PE=3 SV=1 ,5
-Q9HV52,GO:0005622;GO:0005575;GO:0005886,intracellular;cellular_component;plasma membrane,Protein-export membrane protein SecG OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=secG PE=3 SV=1 ,3
+Q9HV52,GO:0005622;GO:0005886,intracellular;plasma membrane,Protein-export membrane protein SecG OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=secG PE=3 SV=1 ,3
 Q9HV53,GO:0005737;GO:0005829,cytoplasm;cytosol,Ribosome maturation factor RimP OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rimP PE=3 SV=1 ,3
 Q9HV54,GO:0005737;GO:0005829,cytoplasm;cytosol,Transcription termination/antitermination protein NusA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nusA PE=3 SV=1 ,125
 Q9HV55,GO:0005622;GO:0005737,intracellular;cytoplasm,Translation initiation factor IF-2 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=infB PE=3 SV=1 ,28
@@ -297,7 +297,7 @@ Q9HV61,,,UPF0337 protein PA4738 OS=Pseudomonas aeruginosa (strain ATCC 15692 / P
 Q9HV67,GO:0005737,cytoplasm,Glucose-6-phosphate isomerase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pgi PE=3 SV=1 ,6
 Q9HV69,GO:0005737;GO:0005829,cytoplasm;cytosol,Pantothenate synthetase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=panC PE=3 SV=1 ,2
 Q9HV70,GO:0005737,cytoplasm,3-methyl-2-oxobutanoate hydroxymethyltransferase 2 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=panB2 PE=3 SV=1 ,10
-Q9HV73,GO:0005622;GO:0005575,intracellular;cellular_component,Two-component response regulator CbrB OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cbrB PE=4 SV=1 ,6
+Q9HV73,GO:0005622,intracellular,Two-component response regulator CbrB OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cbrB PE=4 SV=1 ,6
 Q9HV90,,,"Heme-transport protein, PhuT OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=phuT PE=4 SV=1 ",7
 Q9HV96,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4701 PE=4 SV=1 ,24
 Q9HV97,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4699 PE=4 SV=1 ,4
@@ -353,8 +353,8 @@ Q9HVX6,GO:0005737,cytoplasm,Tryptophan--tRNA ligase OS=Pseudomonas aeruginosa (s
 Q9HVY1,,,Probable oxidoreductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4434 PE=4 SV=1 ,14
 Q9HVY2,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L13 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rplM PE=3 SV=1 ,3
 Q9HVY3,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,30S ribosomal protein S9 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rpsI PE=3 SV=1 ,3
-Q9HVY4,GO:0005575,cellular_component,Ubiquinol-cytochrome c reductase iron-sulfur subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4431 PE=4 SV=1 ,11
-Q9HVY6,GO:0005739;GO:0043234;GO:0005575,mitochondrion;protein complex;cellular_component,Probable cytochrome c1 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4429 PE=4 SV=1 ,7
+Q9HVY4,,,Ubiquinol-cytochrome c reductase iron-sulfur subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4431 PE=4 SV=1 ,11
+Q9HVY6,GO:0005739;GO:0043234,mitochondrion;protein complex,Probable cytochrome c1 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4429 PE=4 SV=1 ,7
 Q9HVZ0,GO:0005737,cytoplasm,Phosphoheptose isomerase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=gmhA PE=1 SV=1 ,26
 Q9HVZ2,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4423 PE=4 SV=1 ,4
 Q9HVZ3,GO:0005737,cytoplasm,Ribosomal RNA small subunit methyltransferase I OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rsmI PE=3 SV=1 ,3
@@ -374,10 +374,10 @@ Q9HW53,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / 
 Q9HW68,,,Probable fumarase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4333 PE=4 SV=1 ,23
 Q9HW72,GO:0005829,cytosol,Pyruvate kinase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pykA PE=3 SV=1 ,35
 Q9HW73,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4328 PE=4 SV=1 ,9
-Q9HW86,GO:0005575,cellular_component,MvaT OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=mvaT PE=1 SV=1 ,18
+Q9HW86,,,MvaT OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=mvaT PE=1 SV=1 ,18
 Q9HW87,,,Formyltetrahydrofolate deformylase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=purU1 PE=3 SV=1 ,3
 Q9HW92,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4308 PE=4 SV=1 ,5
-Q9HW93,GO:0005886;GO:0005575,plasma membrane;cellular_component,Methyl-accepting chemotaxis protein PctA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pctA PE=1 SV=1 ,2
+Q9HW93,GO:0005886,plasma membrane,Methyl-accepting chemotaxis protein PctA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pctA PE=1 SV=1 ,2
 Q9HWC4,GO:0005829,cytosol,Transcription termination/antitermination protein NusG OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nusG PE=3 SV=1 ,13
 Q9HWC5,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L11 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rplK PE=3 SV=1 ,18
 Q9HWC6,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L1 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rplA PE=3 SV=1 ,69
@@ -411,12 +411,12 @@ Q9HWG9,,,Flavin-containing monooxygenase OS=Pseudomonas aeruginosa (strain ATCC 
 Q9HWI2,,,Probable acyl-CoA dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4199 PE=3 SV=1 ,11
 Q9HWK1,,,Probable acetolactate synthase large subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4180 PE=3 SV=1 ,2
 Q9HWP9,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4132 PE=4 SV=1 ,5
-Q9HWQ0,GO:0005575,cellular_component,Probable iron-sulfur protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4131 PE=4 SV=1 ,9
+Q9HWQ0,,,Probable iron-sulfur protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4131 PE=4 SV=1 ,9
 Q9HWQ1,GO:0005622;GO:0043234,intracellular;protein complex,Probable sulfite or nitrite reductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4130 PE=4 SV=1 ,3
 Q9HWQ2,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4129 PE=4 SV=1 ,16
 Q9HWQ8,,,5-carboxy-2-hydroxymuconate semialdehyde dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hpcC PE=3 SV=1 ,2
 Q9HWV0,,,Probable nonribosomal peptide synthetase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4078 PE=4 SV=1 ,4
-Q9HWW1,GO:0005886;GO:0005575;GO:0030312,plasma membrane;cellular_component;external encapsulating structure,Outer membrane protein OprG OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=oprG PE=1 SV=1 ,21
+Q9HWW1,GO:0005886;GO:0030312,plasma membrane;external encapsulating structure,Outer membrane protein OprG OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=oprG PE=1 SV=1 ,21
 Q9HWW7,GO:0005623,cell,Probable thioredoxin OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA4061 PE=4 SV=1 ,11
 Q9HWX2,,,Riboflavin biosynthesis protein RibD OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ribD PE=3 SV=1 ,2
 Q9HWX4,GO:0005829,cytosol,"3,4-dihydroxy-2-butanone 4-phosphate synthase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ribB PE=3 SV=1 ",10
@@ -438,7 +438,7 @@ Q9HX94,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / 
 Q9HXA0,,,Probable protease OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3913 PE=4 SV=1 ,2
 Q9HXA1,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3912 PE=4 SV=1 ,2
 Q9HXB0,GO:0005737;GO:0005829,cytoplasm;cytosol,Peptide chain release factor 3 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=prfC PE=3 SV=1 ,9
-Q9HXC2,GO:0005886;GO:0043234;GO:0005575,plasma membrane;protein complex;cellular_component,Probable ATP-binding component of ABC transporter OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3891 PE=3 SV=1 ,25
+Q9HXC2,GO:0005886;GO:0043234,plasma membrane;protein complex,Probable ATP-binding component of ABC transporter OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3891 PE=3 SV=1 ,25
 Q9HXC6,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3886 PE=4 SV=1 ,3
 Q9HXE7,,,Carboxylesterase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3859 PE=1 SV=1 ,18
 Q9HXG0,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3846 PE=4 SV=1 ,7
@@ -466,7 +466,7 @@ Q9HXR8,,,Probable FMN oxidoreductase OS=Pseudomonas aeruginosa (strain ATCC 1569
 Q9HXS5,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3716 PE=4 SV=1 ,2
 Q9HXU0,GO:0005737,cytoplasm,Lysine--tRNA ligase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=lysS PE=3 SV=1 ,10
 Q9HXU1,GO:0005829,cytosol,Probable transcriptional regulator OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3699 PE=1 SV=1 ,8
-Q9HXU8,GO:0005886;GO:0005575;GO:0030312,plasma membrane;cellular_component;external encapsulating structure,"Lipotoxon F, LptF OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=lptF PE=3 SV=1 ",5
+Q9HXU8,GO:0005886;GO:0030312,plasma membrane;external encapsulating structure,"Lipotoxon F, LptF OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=lptF PE=3 SV=1 ",5
 Q9HXV3,GO:0005829,cytosol,Phosphoenolpyruvate carboxylase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ppc PE=3 SV=1 ,3
 Q9HXV4,GO:0005737,cytoplasm,Adenylate kinase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=adk PE=3 SV=1 ,50
 Q9HXW5,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3675 PE=4 SV=1 ,8
@@ -502,7 +502,7 @@ Q9HYH1,,,Uncharacterized protein PA3435 OS=Pseudomonas aeruginosa (strain ATCC 1
 Q9HYH5,,,Putative aldolase class 2 protein PA3430 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3430 PE=3 SV=1 ,9
 Q9HYJ0,,,Probable dihydrolipoamide acetyltransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3415 PE=3 SV=1 ,3
 Q9HYK7,,,Ferredoxin--NADP+ reductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fpr PE=1 SV=1 ,25
-Q9HYL2,GO:0005575;GO:0005623,cellular_component;cell,Nitrous-oxide reductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nosZ PE=3 SV=1 ,7
+Q9HYL2,GO:0005623,cell,Nitrous-oxide reductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nosZ PE=3 SV=1 ,7
 Q9HYP7,GO:0005829,cytosol,Probable chemotaxis protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3349 PE=4 SV=1 ,4
 Q9HYR1,,,Probable acyl carrier protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3334 PE=4 SV=1 ,18
 Q9HYR2,GO:0005737,cytoplasm,3-oxoacyl-[acyl-carrier-protein] synthase 3 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fabH PE=1 SV=1 ,7
@@ -536,7 +536,7 @@ Q9HZ68,,,Histidinol-phosphate aminotransferase 2 OS=Pseudomonas aeruginosa (stra
 Q9HZ71,GO:0005840;GO:0005622,ribosome;intracellular,30S ribosomal protein S1 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rpsA PE=3 SV=1 ,171
 Q9HZ76,,,UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=wbpE PE=1 SV=1 ,8
 Q9HZ78,,,LPS biosynthesis protein WbpG OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=wbpG PE=4 SV=1 ,3
-Q9HZ86,GO:0005575,cellular_component,Nucleotide sugar epimerase/dehydratase WbpM OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=wbpM PE=4 SV=1 ,2
+Q9HZ86,,,Nucleotide sugar epimerase/dehydratase WbpM OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=wbpM PE=4 SV=1 ,2
 Q9HZA3,,,3-isopropylmalate dehydratase large subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=leuC PE=3 SV=1 ,8
 Q9HZA4,GO:0005829,cytosol,3-isopropylmalate dehydratase small subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=leuD PE=3 SV=1 ,6
 Q9HZA8,GO:0005737,cytoplasm,Folylpolyglutamate synthetase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=folC PE=3 SV=1 ,4
@@ -544,31 +544,31 @@ Q9HZC5,GO:0005737,cytoplasm,Aminopeptidase N OS=Pseudomonas aeruginosa (strain A
 Q9HZD8,GO:0005618,cell wall,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3070 PE=4 SV=1 ,4
 Q9HZE0,,,NAD-specific glutamate dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=gdhB PE=1 SV=1 ,58
 Q9HZE2,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3066 PE=4 SV=1 ,2
-Q9HZF8,GO:0005886;GO:0005575;GO:0005737,plasma membrane;cellular_component;cytoplasm,Dihydroorotate dehydrogenase (quinone) OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pyrD PE=3 SV=1 ,3
+Q9HZF8,GO:0005886;GO:0005737,plasma membrane;cytoplasm,Dihydroorotate dehydrogenase (quinone) OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pyrD PE=3 SV=1 ,3
 Q9HZG8,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3040 PE=4 SV=1 ,4
 Q9HZH4,GO:0005829,cytosol,Probable transcriptional regulator OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3034 PE=4 SV=1 ,2
 Q9HZI4,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3022 PE=4 SV=1 ,8
 Q9HZI9,GO:0005737,cytoplasm,Universal stress protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3017 PE=3 SV=1 ,5
-Q9HZJ2,GO:0005575,cellular_component,Fatty acid oxidation complex subunit alpha OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fadB PE=3 SV=1 ,27
+Q9HZJ2,,,Fatty acid oxidation complex subunit alpha OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fadB PE=3 SV=1 ,27
 Q9HZJ3,GO:0005737,cytoplasm,3-ketoacyl-CoA thiolase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fadA PE=3 SV=1 ,22
 Q9HZK0,GO:0005737,cytoplasm,Beta-hexosaminidase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nagZ PE=3 SV=1 ,4
 Q9HZK2,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3003 PE=4 SV=1 ,3
 Q9HZK3,GO:0005737,cytoplasm,Transcription-repair-coupling factor OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=mfd PE=3 SV=1 ,3
 Q9HZK4,,,Glyceraldehyde-3-phosphate dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA3001 PE=3 SV=1 ,84
-Q9HZM8,GO:0005886;GO:0005575;GO:0005737,plasma membrane;cellular_component;cytoplasm,Ribonuclease E OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rne PE=3 SV=1 ,31
+Q9HZM8,GO:0005886;GO:0005737,plasma membrane;cytoplasm,Ribonuclease E OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rne PE=3 SV=1 ,31
 Q9HZN4,GO:0005840;GO:0005622,ribosome;intracellular,50S ribosomal protein L32 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rpmF PE=1 SV=3 ,12
 Q9HZP5,,,Electron transfer flavoprotein-ubiquinone oxidoreductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2953 PE=1 SV=1 ,4
 Q9HZP6,GO:0005829,cytosol,Electron transfer flavoprotein subunit beta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=etfB PE=3 SV=1 ,59
 Q9HZP7,GO:0005739,mitochondrion,Electron transfer flavoprotein subunit alpha OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=etfA PE=3 SV=1 ,238
 Q9HZP8,,,Enoyl-[acyl-carrier-protein] reductase [NADH] OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=fabV PE=1 SV=1 ,9
 Q9HZV6,,,"Geranyl-CoA carboxylase, alpha-subunit (Biotin-containing) OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atuF PE=4 SV=1 ",2
-Q9HZX9,GO:0005575,cellular_component,Probable chemotaxis transducer OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2867 PE=4 SV=1 ,3
+Q9HZX9,,,Probable chemotaxis transducer OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2867 PE=4 SV=1 ,3
 Q9HZY8,GO:0005576,extracellular region,Esterase TesA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=tesA PE=1 SV=1 ,5
 Q9HZZ2,GO:0005737,cytoplasm,Elongation factor P OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=efp PE=1 SV=1 ,21
 Q9I002,,,Probable enoyl-CoA hydratase/isomerase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2841 PE=4 SV=1 ,5
 Q9I012,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2831 PE=1 SV=1 ,5
 Q9I015,,,Probable aminotransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2828 PE=4 SV=1 ,5
-Q9I028,GO:0005575,cellular_component,Probable acyl-CoA dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2815 PE=4 SV=1 ,13
+Q9I028,,,Probable acyl-CoA dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2815 PE=4 SV=1 ,13
 Q9I034,GO:0005622,intracellular,"Two-component response regulator, CopR OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=copR PE=4 SV=1 ",6
 Q9I036,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2807 PE=4 SV=1 ,34
 Q9I037,GO:0005737,cytoplasm,NADPH-dependent 7-cyano-7-deazaguanine reductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=queF PE=3 SV=1 ,2
@@ -583,7 +583,7 @@ Q9I078,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / 
 Q9I088,GO:0005623,cell,Ecotin OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=eco PE=3 SV=1 ,2
 Q9I089,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2754 PE=4 SV=1 ,4
 Q9I099,GO:0005737,cytoplasm,Threonine--tRNA ligase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=thrS PE=3 SV=1 ,8
-Q9I0A0,GO:0005575;GO:0005737;GO:0005829,cellular_component;cytoplasm;cytosol,Translation initiation factor IF-3 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=infC PE=3 SV=1 ,5
+Q9I0A0,GO:0005737;GO:0005829,cytoplasm;cytosol,Translation initiation factor IF-3 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=infC PE=3 SV=1 ,5
 Q9I0A2,GO:0005840;GO:0005622;GO:0005829,ribosome;intracellular;cytosol,50S ribosomal protein L20 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rplT PE=3 SV=1 ,2
 Q9I0A3,GO:0005737,cytoplasm,Phenylalanine--tRNA ligase alpha subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pheS PE=1 SV=1 ,3
 Q9I0A4,GO:0005737,cytoplasm,Phenylalanine--tRNA ligase beta subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pheT PE=1 SV=1 ,14
@@ -593,11 +593,11 @@ Q9I0E3,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / 
 Q9I0F9,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2679 PE=4 SV=1 ,12
 Q9I0H1,GO:0005622,intracellular,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2667 PE=4 SV=1 ,3
 Q9I0H9,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2659 PE=4 SV=1 ,8
-Q9I0J6,GO:0005886;GO:0043234;GO:0005575,plasma membrane;protein complex;cellular_component,NADH-quinone oxidoreductase subunit G OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nuoG PE=3 SV=1 ,26
+Q9I0J6,GO:0005886;GO:0043234,plasma membrane;protein complex,NADH-quinone oxidoreductase subunit G OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nuoG PE=3 SV=1 ,26
 Q9I0J7,,,NADH-quinone oxidoreductase subunit F OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nuoF PE=3 SV=1 ,16
 Q9I0J8,GO:0005886;GO:0043234,plasma membrane;protein complex,NADH-quinone oxidoreductase subunit E OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nuoE PE=3 SV=1 ,6
-Q9I0J9,GO:0005886;GO:0005575;GO:0005623,plasma membrane;cellular_component;cell,NADH-quinone oxidoreductase subunit C/D OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nuoC PE=3 SV=1 ,5
-Q9I0K0,GO:0005886;GO:0005575,plasma membrane;cellular_component,NADH-quinone oxidoreductase subunit B OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nuoB PE=3 SV=1 ,3
+Q9I0J9,GO:0005886;GO:0005623,plasma membrane;cell,NADH-quinone oxidoreductase subunit C/D OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nuoC PE=3 SV=1 ,5
+Q9I0K0,GO:0005886,plasma membrane,NADH-quinone oxidoreductase subunit B OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nuoB PE=3 SV=1 ,3
 Q9I0K4,,,Isocitrate lyase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2634 PE=1 SV=1 ,46
 Q9I0K7,,,Probable acetyl transferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2631 PE=4 SV=1 ,3
 Q9I0K8,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2630 PE=4 SV=1 ,5
@@ -616,7 +616,7 @@ Q9I0S3,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / 
 Q9I0T0,,,Probable short-chain dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2554 PE=3 SV=1 ,5
 Q9I0T1,,,Probable acyl-CoA thiolase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2553 PE=3 SV=1 ,27
 Q9I0V3,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2530 PE=4 SV=1 ,2
-Q9I0X7,GO:0005575,cellular_component,Tyrosine porin OpdT OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=opdT PE=4 SV=1 ,3
+Q9I0X7,,,Tyrosine porin OpdT OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=opdT PE=4 SV=1 ,3
 Q9I0Z9,GO:0005829,cytosol,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2483 PE=4 SV=1 ,6
 Q9I129,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2453 PE=4 SV=1 ,3
 Q9I137,,,Glycine dehydrogenase (decarboxylating) 1 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=gcvP1 PE=3 SV=1 ,29
@@ -629,11 +629,11 @@ Q9I1F5,GO:0005739,mitochondrion,Probable glyceraldehyde-3-phosphate dehydrogenas
 Q9I1G0,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2315 PE=4 SV=1 ,5
 Q9I1H3,,,AmbE OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ambE PE=4 SV=1 ,20
 Q9I1H5,GO:0005576,extracellular region,Chitinase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=chiC PE=3 SV=1 ,15
-Q9I1K7,GO:0005575,cellular_component,Probable cytochrome c OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2266 PE=4 SV=1 ,3
+Q9I1K7,,,Probable cytochrome c OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2266 PE=4 SV=1 ,3
 Q9I1M0,,,Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=bkdB PE=1 SV=1 ,8
 Q9I1M1,,,2-oxoisovalerate dehydrogenase subunit beta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=bkdA2 PE=3 SV=1 ,8
 Q9I1M2,,,2-oxoisovalerate dehydrogenase subunit alpha OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=bkdA1 PE=3 SV=1 ,6
-Q9I1N4,GO:0005575,cellular_component,PslE OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pslE PE=4 SV=1 ,2
+Q9I1N4,,,PslE OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pslE PE=4 SV=1 ,2
 Q9I1N7,,,PslB OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pslB PE=3 SV=1 ,4
 Q9I1P7,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2222 PE=1 SV=1 ,2
 Q9I1S0,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA2197 PE=4 SV=1 ,15
@@ -648,13 +648,13 @@ Q9I275,,,Probable glutamine synthetase OS=Pseudomonas aeruginosa (strain ATCC 15
 Q9I291,,,UTP--glucose-1-phosphate uridylyltransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=galU PE=3 SV=1 ,15
 Q9I296,,,Putative isovaleryl-CoA dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=liuA PE=3 SV=1 ,9
 Q9I298,,,Putative 3-methylglutaconyl-CoA hydratase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=liuC PE=3 SV=1 ,6
-Q9I299,GO:0005575,cellular_component,"Methylcrotonyl-CoA carboxylase, alpha-subunit (Biotin-containing) OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=liuD PE=1 SV=1 ",4
+Q9I299,,,"Methylcrotonyl-CoA carboxylase, alpha-subunit (Biotin-containing) OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=liuD PE=1 SV=1 ",4
 Q9I2A6,,,3-hydroxybutyrate dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=bdhA PE=3 SV=1 ,6
 Q9I2A8,GO:0005737,cytoplasm,Acetyl-CoA acetyltransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=atoB PE=3 SV=1 ,25
 Q9I2A9,,,"DhcB, dehydrocarnitine CoA transferase, subunit B OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=dhcB PE=4 SV=1 ",8
 Q9I2B0,,,"DhcA, dehydrocarnitine CoA transferase, subunit A OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=dhcA PE=4 SV=1 ",6
 Q9I2C4,,,NAD+ dependent aldehyde dehydrogenase ExaC OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=exaC PE=3 SV=1 ,19
-Q9I2F8,GO:0005886;GO:0005575,plasma membrane;cellular_component,Binding protein component of ABC ribose transporter OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rbsB PE=4 SV=1 ,3
+Q9I2F8,GO:0005886,plasma membrane,Binding protein component of ABC ribose transporter OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=rbsB PE=4 SV=1 ,3
 Q9I2L0,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1887 PE=4 SV=1 ,2
 Q9I2L7,,,Probable oxidoreductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1880 PE=4 SV=1 ,2
 Q9I2N2,GO:0005886,plasma membrane,Molybdate-binding periplasmic protein ModA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=modA PE=4 SV=1 ,14
@@ -667,7 +667,7 @@ Q9I2R7,,,Probable short-chain dehydrogenase OS=Pseudomonas aeruginosa (strain AT
 Q9I2S4,,,Probable enoyl-CoA hydratase/isomerase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1821 PE=3 SV=1 ,2
 Q9I2S7,GO:0005737,cytoplasm,"Lysine-specific pyridoxal 5'-phosphate-dependent carboxylase, LdcA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ldcA PE=4 SV=1 ",2
 Q9I2T4,GO:0005886;GO:0043234,plasma membrane;protein complex,Probable binding protein component of ABC transporter OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1810 PE=4 SV=1 ,5
-Q9I2T8,GO:0005575,cellular_component,Peptidylprolyl isomerase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ppiD PE=4 SV=1 ,4
+Q9I2T8,,,Peptidylprolyl isomerase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ppiD PE=4 SV=1 ,4
 Q9I2T9,GO:0005737,cytoplasm,Lon protease OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=lon PE=2 SV=1 ,13
 Q9I2U0,GO:0005739,mitochondrion,ATP-dependent Clp protease ATP-binding subunit ClpX OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=clpX PE=3 SV=1 ,34
 Q9I2U2,GO:0005737,cytoplasm,Trigger factor OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=tig PE=3 SV=1 ,84
@@ -686,7 +686,7 @@ Q9I2Y7,GO:0005737,cytoplasm,Phospho-2-dehydro-3-deoxyheptonate aldolase OS=Pseud
 Q9I2Y9,,,Probable enoyl-CoA hydratase/isomerase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1748 PE=4 SV=1 ,5
 Q9I2Z1,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1746 PE=4 SV=1 ,215
 Q9I300,,,Probable 3-hydroxyacyl-CoA dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1737 PE=4 SV=1 ,4
-Q9I318,GO:0005575,cellular_component,Type III export protein PscD OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pscD PE=4 SV=1 ,2
+Q9I318,,,Type III export protein PscD OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pscD PE=4 SV=1 ,2
 Q9I340,,,Enolase-phosphatase E1 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=mtnC PE=3 SV=1 ,6
 Q9I341,,,Acireductone dioxygenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=mtnD PE=3 SV=1 ,7
 Q9I344,GO:0005829,cytosol,Chorismate synthase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=aroC PE=3 SV=1 ,7
@@ -700,21 +700,21 @@ Q9I3D1,GO:0005737,cytoplasm,Dihydrolipoyl dehydrogenase OS=Pseudomonas aeruginos
 Q9I3D2,GO:0043234;GO:0005737,protein complex;cytoplasm,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=sucB PE=3 SV=1 ,197
 Q9I3D3,GO:0043234;GO:0005737;GO:0005829,protein complex;cytoplasm;cytosol,2-oxoglutarate dehydrogenase (E1 subunit) OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=sucA PE=4 SV=1 ,57
 Q9I3D4,GO:0005886,plasma membrane,Succinate dehydrogenase (B subunit) OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=sdhB PE=4 SV=1 ,5
-Q9I3D5,GO:0005886;GO:0043234;GO:0005575;GO:0005622,plasma membrane;protein complex;cellular_component;intracellular,Succinate dehydrogenase flavoprotein subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=sdhA PE=3 SV=1 ,97
+Q9I3D5,GO:0005886;GO:0043234;GO:0005622,plasma membrane;protein complex;intracellular,Succinate dehydrogenase flavoprotein subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=sdhA PE=3 SV=1 ,97
 Q9I3D8,,,Uncharacterized protein PA1579 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1579 PE=3 SV=1 ,5
 Q9I3E1,,,Probable 3-hydroxyisobutyrate dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1576 PE=4 SV=1 ,4
 Q9I3E3,,,UPF0345 protein PA1574 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1574 PE=3 SV=1 ,3
 Q9I3F5,GO:0005737,cytoplasm,Aconitate hydratase A OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=acnA PE=3 SV=1 ,126
-Q9I3G1,GO:0005575,cellular_component,"Cytochrome c oxidase, cbb3-type, CcoO subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccoO2 PE=4 SV=1 ",14
-Q9I3G2,GO:0005886;GO:0005575,plasma membrane;cellular_component,Cbb3-type cytochrome c oxidase subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccoP2 PE=3 SV=1 ,29
-Q9I3G4,GO:0005575,cellular_component,"Cytochrome c oxidase, cbb3-type, CcoO subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccoO1 PE=4 SV=1 ",7
-Q9I3G5,GO:0005886;GO:0005575,plasma membrane;cellular_component,Cbb3-type cytochrome c oxidase subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccoP1 PE=3 SV=1 ,4
-Q9I3I0,GO:0005575;GO:0005737,cellular_component;cytoplasm,Nucleoid-associated protein PA1533 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1533 PE=3 SV=1 ,11
+Q9I3G1,,,"Cytochrome c oxidase, cbb3-type, CcoO subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccoO2 PE=4 SV=1 ",14
+Q9I3G2,GO:0005886,plasma membrane,Cbb3-type cytochrome c oxidase subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccoP2 PE=3 SV=1 ,29
+Q9I3G4,,,"Cytochrome c oxidase, cbb3-type, CcoO subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccoO1 PE=4 SV=1 ",7
+Q9I3G5,GO:0005886,plasma membrane,Cbb3-type cytochrome c oxidase subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccoP1 PE=3 SV=1 ,4
+Q9I3I0,GO:0005737,cytoplasm,Nucleoid-associated protein PA1533 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1533 PE=3 SV=1 ,11
 Q9I3I1,GO:0005622;GO:0043234,intracellular;protein complex,DNA polymerase subunits gamma and tau OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=dnaX PE=4 SV=1 ,2
 Q9I3J3,,,Probable transcriptional regulator OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1520 PE=4 SV=1 ,5
 Q9I3J5,,,5-hydroxyisourate hydrolase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1518 PE=3 SV=1 ,4
 Q9I3L9,GO:0005615,extracellular space,Sulfate-binding protein of ABC transporter OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cysP PE=4 SV=1 ,5
-Q9I3N5,GO:0005886;GO:0005575,plasma membrane;cellular_component,Heme exporter protein C OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccmC PE=3 SV=1 ,2
+Q9I3N5,GO:0005886,plasma membrane,Heme exporter protein C OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ccmC PE=3 SV=1 ,2
 Q9I3P2,,,Probable short-chain dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1470 PE=3 SV=1 ,3
 Q9I3Q7,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1440 PE=4 SV=1 ,3
 Q9I3S3,,,Guanidinobutyrase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=gbuA PE=1 SV=1 ,3
@@ -733,7 +733,7 @@ Q9I4H5,,,Succinyl-diaminopimelate desuccinylase OS=Pseudomonas aeruginosa (strai
 Q9I4H7,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1160 PE=4 SV=1 ,5
 Q9I4H8,GO:0005737,cytoplasm,Probable cold-shock protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1159 PE=4 SV=1 ,7
 Q9I4I1,GO:0005829,cytosol,Ribonucleoside-diphosphate reductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nrdA PE=3 SV=1 ,20
-Q9I4I2,GO:0005575;GO:0005829,cellular_component;cytosol,Ribonucleoside-diphosphate reductase subunit beta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nrdB PE=3 SV=1 ,5
+Q9I4I2,GO:0005829,cytosol,Ribonucleoside-diphosphate reductase subunit beta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=nrdB PE=3 SV=1 ,5
 Q9I4J5,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1140 PE=1 SV=1 ,4
 Q9I4K0,GO:0005737,cytoplasm,Molecular chaperone Hsp31 and glyoxalase 3 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=hchA PE=3 SV=1 ,3
 Q9I4K8,,,Probable oxidoreductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1127 PE=4 SV=1 ,13
@@ -744,7 +744,7 @@ Q9I4N9,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / 
 Q9I4Q5,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1069 PE=4 SV=1 ,4
 Q9I4R3,GO:0005737,cytoplasm,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1061 PE=4 SV=1 ,2
 Q9I4S5,,,Pyridoxine/pyridoxamine 5'-phosphate oxidase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pdxH PE=3 SV=1 ,6
-Q9I4T3,GO:0005886;GO:0005575;GO:0030312,plasma membrane;cellular_component;external encapsulating structure,Probable outer membrane protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1041 PE=3 SV=1 ,2
+Q9I4T3,GO:0005886;GO:0030312,plasma membrane;external encapsulating structure,Probable outer membrane protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1041 PE=3 SV=1 ,2
 Q9I4U1,,,Probable glutathione S-transferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1033 PE=3 SV=1 ,3
 Q9I4W0,,,Phosphoribosylaminoimidazole-succinocarboxamide synthase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=purC PE=3 SV=1 ,16
 Q9I4W2,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA1011 PE=4 SV=1 ,9
@@ -752,8 +752,8 @@ Q9I4W3,GO:0005737,cytoplasm,4-hydroxy-tetrahydrodipicolinate synthase OS=Pseudom
 Q9I4W5,GO:0005623,cell,Bacterioferritin comigratory protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=bcp PE=4 SV=1 ,7
 Q9I4X1,,,PqsC OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pqsC PE=4 SV=1 ,17
 Q9I4X2,,,PqsB OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pqsB PE=4 SV=1 ,22
-Q9I4X5,GO:0005886;GO:0005575;GO:0030312,plasma membrane;cellular_component;external encapsulating structure,Usher CupC3 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cupC3 PE=3 SV=1 ,4
-Q9I4Z4,GO:0005886;GO:0005575;GO:0030312,plasma membrane;cellular_component;external encapsulating structure,Peptidoglycan-associated lipoprotein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pal PE=3 SV=1 ,5
+Q9I4X5,GO:0005886;GO:0030312,plasma membrane;external encapsulating structure,Usher CupC3 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cupC3 PE=3 SV=1 ,4
+Q9I4Z4,GO:0005886;GO:0030312,plasma membrane;external encapsulating structure,Peptidoglycan-associated lipoprotein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pal PE=3 SV=1 ,5
 Q9I4Z5,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0968 PE=4 SV=1 ,2
 Q9I4Z7,GO:0005623,cell,Probable dna-binding stress protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0962 PE=3 SV=1 ,19
 Q9I500,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0959 PE=4 SV=1 ,5
@@ -773,7 +773,7 @@ Q9I589,GO:0005576;GO:0005615,extracellular region;extracellular space,Chitin-bin
 Q9I593,GO:0005623,cell,Probable alkyl hydroperoxide reductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0848 PE=4 SV=1 ,2
 Q9I5A2,,,Glutathione peroxidase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0838 PE=3 SV=1 ,4
 Q9I5A5,GO:0005737,cytoplasm,Phosphate acetyltransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=pta PE=1 SV=1 ,8
-Q9I5A7,GO:0005886;GO:0005575;GO:0030312,plasma membrane;cellular_component;external encapsulating structure,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0833 PE=3 SV=1 ,4
+Q9I5A7,GO:0005886;GO:0030312,plasma membrane;external encapsulating structure,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0833 PE=3 SV=1 ,4
 Q9I5D4,,,Probable oxidoreductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0804 PE=4 SV=1 ,5
 Q9I5E2,,,2-methylisocitrate lyase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=prpB PE=3 SV=1 ,9
 Q9I5E3,GO:0043234;GO:0005737,protein complex;cytoplasm,Citrate synthase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=prpC PE=3 SV=1 ,19
@@ -781,7 +781,7 @@ Q9I5E4,,,Probable aconitate hydratase OS=Pseudomonas aeruginosa (strain ATCC 156
 Q9I5E6,,,Propionate catabolic protein PrpD OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=prpD PE=4 SV=1 ,9
 Q9I5F6,,,Bifunctional protein PutA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=putA PE=3 SV=1 ,12
 Q9I5F9,GO:0005737,cytoplasm,Lon protease OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=lon PE=2 SV=1 ,14
-Q9I5G8,GO:0005886;GO:0005575,plasma membrane;cellular_component,Elongation factor 4 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=lepA PE=3 SV=1 ,4
+Q9I5G8,GO:0005886,plasma membrane,Elongation factor 4 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=lepA PE=3 SV=1 ,4
 Q9I5H0,,,tRNA-modifying protein YgfZ OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0759 PE=4 SV=1 ,12
 Q9I5H5,GO:0005886,plasma membrane,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0754 PE=4 SV=1 ,4
 Q9I5I2,,,Probable aldehyde dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0747 PE=4 SV=1 ,2
@@ -791,7 +791,7 @@ Q9I5I5,,,Probable enoyl-CoA hydratase/isomerase OS=Pseudomonas aeruginosa (strai
 Q9I5I8,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0741 PE=4 SV=1 ,3
 Q9I5Q3,GO:0005737;GO:0005829,cytoplasm;cytosol,Tyrosine--tRNA ligase 2 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=tyrS2 PE=3 SV=1 ,14
 Q9I5Q9,GO:0005737,cytoplasm,N-acetyl-gamma-glutamyl-phosphate reductase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=argC PE=3 SV=1 ,13
-Q9I5R6,GO:0005886;GO:0005575,plasma membrane;cellular_component,"2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=coq7 PE=1 SV=1 ",3
+Q9I5R6,GO:0005886,plasma membrane,"2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=coq7 PE=1 SV=1 ",3
 Q9I5S9,,,Probable bacteriophage protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0623 PE=4 SV=1 ,4
 Q9I5T4,,,Probable binding protein component of ABC transporter OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0604 PE=4 SV=1 ,2
 Q9I5U0,,,Probable nucleotidyl transferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0597 PE=4 SV=1 ,3
@@ -829,7 +829,7 @@ Q9I6A7,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / 
 Q9I6A8,GO:0005829,cytosol,Non-canonical purine NTP pyrophosphatase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0387 PE=3 SV=1 ,2
 Q9I6B3,GO:0005737,cytoplasm,tRNA (guanine-N(7)-)-methyltransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=trmB PE=3 SV=2 ,3
 Q9I6B4,GO:0005737,cytoplasm,Thiazole synthase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=thiG PE=1 SV=1 ,8
-Q9I6C2,GO:0005575,cellular_component,Probable zinc protease OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0372 PE=1 SV=1 ,2
+Q9I6C2,,,Probable zinc protease OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0372 PE=1 SV=1 ,2
 Q9I6C3,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0371 PE=3 SV=1 ,2
 Q9I6C4,,,Ribosomal RNA small subunit methyltransferase D OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0370 PE=3 SV=1 ,3
 Q9I6E0,,,Dihydroxy-acid dehydratase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ilvD PE=3 SV=1 ,7
@@ -840,7 +840,7 @@ Q9I6H3,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / 
 Q9I6H4,GO:0005886;GO:0005622,plasma membrane;intracellular,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0317 PE=4 SV=1 ,7
 Q9I6H5,,,D-3-phosphoglycerate dehydrogenase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=serA PE=3 SV=1 ,10
 Q9I6I2,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=PA0309 PE=4 SV=1 ,3
-Q9I6I9,GO:0005886;GO:0043234;GO:0005575,plasma membrane;protein complex;cellular_component,Polyamine-transporting ATPase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=spuF PE=3 SV=1 ,3
+Q9I6I9,GO:0005886;GO:0043234,plasma membrane;protein complex,Polyamine-transporting ATPase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=spuF PE=3 SV=1 ,3
 Q9I6J0,GO:0005615;GO:0005623,extracellular space;cell,Spermidine-binding periplasmic protein SpuE OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=spuE PE=1 SV=1 ,35
 Q9I6J1,GO:0005623,cell,Putrescine-binding periplasmic protein SpuD OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=spuD PE=1 SV=1 ,22
 Q9I6J2,,,Putrescine aminotransferase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=spuC PE=3 SV=1 ,44
@@ -867,10 +867,10 @@ Q9I793,,,Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / 
 Q9I7A8,GO:0005739,mitochondrion,Peptide deformylase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=def PE=1 SV=1 ,2
 Q9I7B7,GO:0005737,cytoplasm,Glycine--tRNA ligase alpha subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=glyQ PE=3 SV=1 ,3
 Q9I7B8,GO:0005737,cytoplasm,Glycine--tRNA ligase beta subunit OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=glyS PE=3 SV=1 ,13
-Q9I7C2,GO:0005694;GO:0005575;GO:0005737,chromosome;cellular_component;cytoplasm,DNA gyrase subunit B OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=gyrB PE=3 SV=1 ,9
+Q9I7C2,GO:0005694;GO:0005737,chromosome;cytoplasm,DNA gyrase subunit B OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=gyrB PE=3 SV=1 ,9
 Q9I7C4,GO:0005622;GO:0005737,intracellular;cytoplasm,DNA polymerase III subunit beta OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=dnaN PE=3 SV=1 ,22
 Q9KGU7,,,1-deoxy-D-xylulose-5-phosphate synthase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=dxs PE=1 SV=1 ,2
-Q9LCT3,GO:0005623;GO:0005829;GO:0043234;GO:0005886;GO:0005575;GO:0005737,cell;cytosol;protein complex;plasma membrane;cellular_component;cytoplasm,Protein translocase subunit SecA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=secA PE=3 SV=1 ,31
+Q9LCT3,GO:0005886;GO:0043234;GO:0005623;GO:0005737;GO:0005829,plasma membrane;protein complex;cell;cytoplasm;cytosol,Protein translocase subunit SecA OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=secA PE=3 SV=1 ,31
 Q9S508,,,Phenazine biosynthesis protein PhzB 2 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=phzB2 PE=1 SV=1 ,27
 Q9S646,,,Polyphosphate kinase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=ppk PE=3 SV=1 ,7
 Q9X2T1,GO:0005829,cytosol,Thioredoxin OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=trxA PE=3 SV=1 ,61
