@@ -1,0 +1,22 @@
+name,cell,file,method,name,pretty_name
+PA_pellet_2,PA,data/PA/Pellet/PA pellet 2.txt,pellet,PA_pellet_2,PA pellet 2
+PA_pellet_3,PA,data/PA/Pellet/PA pellet 3.txt,pellet,PA_pellet_3,PA pellet 3
+PA_pellet_1,PA,data/PA/Pellet/PA pellet 1.txt,pellet,PA_pellet_1,PA pellet 1
+PA_triflic_2,PA,data/PA/Triflic/PA triflic 2.txt,triflic,PA_triflic_2,PA triflic 2
+PA_triflic_3,PA,data/PA/Triflic/PA triflic 3.txt,triflic,PA_triflic_3,PA triflic 3
+PA_triflic_1,PA,data/PA/Triflic/PA triflic 1.txt,triflic,PA_triflic_1,PA triflic 1
+PA_sonic_1,PA,data/PA/Sonic/PA sonic 1.txt,sonic,PA_sonic_1,PA sonic 1
+PA_sonic_3,PA,data/PA/Sonic/PA sonic 3.txt,sonic,PA_sonic_3,PA sonic 3
+PA_sonic_2,PA,data/PA/Sonic/PA sonic 2.txt,sonic,PA_sonic_2,PA sonic 2
+Jurkat_triflic_1,Jurkat,data/Jurkat/Triflic/Jurkat triflic 1.txt,triflic,Jurkat_triflic_1,Jurkat triflic 1
+Jurkat_triflic_2,Jurkat,data/Jurkat/Triflic/Jurkat triflic 2.txt,triflic,Jurkat_triflic_2,Jurkat triflic 2
+Jurkat_triflic_3,Jurkat,data/Jurkat/Triflic/Jurkat triflic 3.txt,triflic,Jurkat_triflic_3,Jurkat triflic 3
+Jurkat_sonic_1,Jurkat,data/Jurkat/Sonic/Jurkat sonic 1.txt,sonic,Jurkat_sonic_1,Jurkat sonic 1
+Jurkat_sonic_3,Jurkat,data/Jurkat/Sonic/Jurkat sonic 3.txt,sonic,Jurkat_sonic_3,Jurkat sonic 3
+Jurkat_sonic_2,Jurkat,data/Jurkat/Sonic/Jurkat sonic 2.txt,sonic,Jurkat_sonic_2,Jurkat sonic 2
+BS_triflic_3,BS,data/BS/Triflic/BS triflic 3.txt,triflic,BS_triflic_3,BS triflic 3
+BS_triflic_1,BS,data/BS/Triflic/BS triflic 1.txt,triflic,BS_triflic_1,BS triflic 1
+BS_triflic_2,BS,data/BS/Triflic/BS triflic 2.txt,triflic,BS_triflic_2,BS triflic 2
+BS_sonic_1,BS,data/BS/Sonic/BS sonic 1.txt,sonic,BS_sonic_1,BS sonic 1
+BS_sonic_3,BS,data/BS/Sonic/BS sonic 3.txt,sonic,BS_sonic_3,BS sonic 3
+BS_sonic_2,BS,data/BS/Sonic/BS sonic 2.txt,sonic,BS_sonic_2,BS sonic 2
