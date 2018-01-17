@@ -1,0 +1,3 @@
+1) H1 whole bacterial cells treated w/ triflic acid (3 mass spec runs - "H1-wholetriflic")
+2) H1 sonicated bacterial pellet treated w/ triflic acid (3 mass spec runs - "H1-PelletTriflic")
+3) H1 sonicated bacterial supernatant treated w/ triflic acid (3 mass spec runs - "H1-SonicSupTriflic")
